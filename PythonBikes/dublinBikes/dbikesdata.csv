@@ -1,0 +1,505 @@
+address,available_bike_stands,available_bikes,banking,bike_stands,bonus,contract_name,last_update,name,number,position,status,scrape_datetime
+Smithfield North,14,16,True,30,False,Dublin,2018-03-02 23:20:19,SMITHFIELD NORTH,42,"{'lat': 53.349562, 'lng': -6.278198}",CLOSED,02-03-2018 23:27:02
+Parnell Square North,18,2,True,20,False,Dublin,2018-03-02 23:19:46,PARNELL SQUARE NORTH,30,"{'lat': 53.353462, 'lng': -6.265305}",CLOSED,02-03-2018 23:27:02
+Clonmel Street,30,3,False,33,False,Dublin,2018-03-02 23:23:50,CLONMEL STREET,54,"{'lat': 53.336021, 'lng': -6.26298}",CLOSED,02-03-2018 23:27:02
+Mount Street Lower,32,8,False,40,False,Dublin,2018-03-02 23:18:26,MOUNT STREET LOWER,56,"{'lat': 53.33796, 'lng': -6.24153}",CLOSED,02-03-2018 23:27:02
+Christchurch Place,19,1,False,20,False,Dublin,2018-03-02 23:21:13,CHRISTCHURCH PLACE,6,"{'lat': 53.343368, 'lng': -6.27012}",CLOSED,02-03-2018 23:27:02
+Grantham Street,7,23,True,30,False,Dublin,2018-03-02 23:25:40,GRANTHAM STREET,18,"{'lat': 53.334123, 'lng': -6.265436}",CLOSED,02-03-2018 23:27:02
+Pearse Street,23,7,True,30,False,Dublin,2018-03-02 23:22:37,PEARSE STREET,32,"{'lat': 53.344304, 'lng': -6.250427}",CLOSED,02-03-2018 23:27:02
+York Street East,28,4,False,32,False,Dublin,2018-03-02 23:18:19,YORK STREET EAST,52,"{'lat': 53.338755, 'lng': -6.262003}",CLOSED,02-03-2018 23:27:02
+Excise Walk,27,13,False,40,False,Dublin,2018-03-02 23:20:53,EXCISE WALK,48,"{'lat': 53.347777, 'lng': -6.244239}",CLOSED,02-03-2018 23:27:02
+Fitzwilliam Square West,27,3,False,30,False,Dublin,2018-03-02 23:22:02,FITZWILLIAM SQUARE WEST,13,"{'lat': 53.336073999999996, 'lng': -6.252825}",CLOSED,02-03-2018 23:27:02
+Portobello Road,3,27,True,30,False,Dublin,2018-03-02 23:24:10,PORTOBELLO ROAD,43,"{'lat': 53.330091, 'lng': -6.268044}",CLOSED,02-03-2018 23:27:02
+St. James Hospital (Central),18,22,False,40,False,Dublin,2018-03-02 23:20:24,ST. JAMES HOSPITAL (CENTRAL),81,"{'lat': 53.339983, 'lng': -6.295594}",CLOSED,02-03-2018 23:27:02
+Parnell Street,15,5,False,20,False,Dublin,2018-03-02 23:25:56,PARNELL STREET,31,"{'lat': 53.350929, 'lng': -6.265125}",CLOSED,02-03-2018 23:27:02
+Frederick Street South,30,0,True,30,False,Dublin,2018-03-02 23:16:52,FREDERICK STREET SOUTH,98,"{'lat': 53.341515, 'lng': -6.2568529999999996}",CLOSED,02-03-2018 23:27:02
+Fownes Street Upper,14,16,False,30,False,Dublin,2018-03-02 23:25:34,FOWNES STREET UPPER,14,"{'lat': 53.344603, 'lng': -6.263371}",CLOSED,02-03-2018 23:27:02
+Clarendon Row,25,6,False,31,False,Dublin,2018-03-02 23:23:07,CLARENDON ROW,1,"{'lat': 53.340927, 'lng': -6.262501}",CLOSED,02-03-2018 23:27:02
+Custom House,0,30,True,30,False,Dublin,2018-03-02 23:26:24,CUSTOM HOUSE,23,"{'lat': 53.348279, 'lng': -6.254662}",CLOSED,02-03-2018 23:27:02
+Hanover Quay,29,11,True,40,False,Dublin,2018-03-02 23:18:29,HANOVER QUAY,68,"{'lat': 53.344115, 'lng': -6.237153}",CLOSED,02-03-2018 23:27:02
+Oliver Bond Street,2,28,False,30,False,Dublin,2018-03-02 23:16:48,OLIVER BOND STREET,74,"{'lat': 53.343893, 'lng': -6.280531}",CLOSED,02-03-2018 23:27:02
+Collins Barracks Museum,26,12,True,38,False,Dublin,2018-03-02 23:18:37,COLLINS BARRACKS MUSEUM,87,"{'lat': 53.347477, 'lng': -6.28525}",CLOSED,02-03-2018 23:27:02
+Brookfield Road,1,29,False,30,False,Dublin,2018-03-02 23:23:53,BROOKFIELD ROAD,84,"{'lat': 53.339005, 'lng': -6.300217}",CLOSED,02-03-2018 23:27:02
+Benson Street,31,9,False,40,False,Dublin,2018-03-02 23:17:16,BENSON STREET,90,"{'lat': 53.344153, 'lng': -6.233451}",CLOSED,02-03-2018 23:27:02
+Earlsfort Terrace,26,4,False,30,False,Dublin,2018-03-02 23:17:06,EARLSFORT TERRACE,11,"{'lat': 53.334019, 'lng': -6.258371}",CLOSED,02-03-2018 23:27:02
+Golden Lane,10,10,False,20,False,Dublin,2018-03-02 23:22:42,GOLDEN LANE,17,"{'lat': 53.340803, 'lng': -6.267732}",CLOSED,02-03-2018 23:27:02
+Deverell Place,2,28,False,30,False,Dublin,2018-03-02 23:24:40,DEVERELL PLACE,45,"{'lat': 53.351464, 'lng': -6.255265}",CLOSED,02-03-2018 23:27:02
+John Street West,22,9,False,31,False,Dublin,2018-03-02 23:19:22,JOHN STREET WEST,72,"{'lat': 53.343105, 'lng': -6.277167}",CLOSED,02-03-2018 23:27:02
+Fenian Street,15,20,False,35,False,Dublin,2018-03-02 23:24:48,FENIAN STREET,63,"{'lat': 53.341428, 'lng': -6.24672}",CLOSED,02-03-2018 23:27:02
+South Dock Road,2,28,False,30,False,Dublin,2018-03-02 23:23:05,SOUTH DOCK ROAD,91,"{'lat': 53.341833, 'lng': -6.231291}",CLOSED,02-03-2018 23:27:02
+City Quay,12,18,False,30,False,Dublin,2018-03-02 23:20:42,CITY QUAY,99,"{'lat': 53.346637, 'lng': -6.246154}",CLOSED,02-03-2018 23:27:02
+Exchequer Street,17,7,False,24,False,Dublin,2018-03-02 23:26:30,EXCHEQUER STREET,9,"{'lat': 53.343034, 'lng': -6.263578}",CLOSED,02-03-2018 23:27:02
+The Point,22,18,True,40,False,Dublin,2018-03-02 23:20:01,THE POINT,67,"{'lat': 53.346867, 'lng': -6.230852}",CLOSED,02-03-2018 23:27:02
+Hatch Street,35,1,False,36,False,Dublin,2018-03-02 23:19:46,HATCH STREET,55,"{'lat': 53.33403, 'lng': -6.260714}",CLOSED,02-03-2018 23:27:02
+Lime Street,35,5,False,40,False,Dublin,2018-03-02 23:16:51,LIME STREET,62,"{'lat': 53.346026, 'lng': -6.243576}",CLOSED,02-03-2018 23:27:02
+Charlemont Street,2,38,False,40,False,Dublin,2018-03-02 23:17:17,CHARLEMONT PLACE,5,"{'lat': 53.330662, 'lng': -6.260177}",CLOSED,02-03-2018 23:27:02
+Kilmainham Gaol,12,28,True,40,False,Dublin,2018-03-02 23:24:49,KILMAINHAM GAOL,97,"{'lat': 53.342113, 'lng': -6.310015}",CLOSED,02-03-2018 23:27:02
+Hardwicke Place,21,4,True,25,False,Dublin,2018-03-02 23:22:51,HARDWICKE PLACE,61,"{'lat': 53.357043, 'lng': -6.263232}",CLOSED,02-03-2018 23:27:02
+Wolfe Tone Street,29,0,False,29,False,Dublin,2018-03-02 23:24:19,WOLFE TONE STREET,77,"{'lat': 53.348875, 'lng': -6.267459}",CLOSED,02-03-2018 23:27:02
+Francis Street,12,18,True,30,False,Dublin,2018-03-02 23:24:16,FRANCIS STREET,73,"{'lat': 53.342081, 'lng': -6.275233}",CLOSED,02-03-2018 23:27:02
+Greek Street,18,2,False,20,False,Dublin,2018-03-02 23:23:55,GREEK STREET,4,"{'lat': 53.346874, 'lng': -6.272976}",CLOSED,02-03-2018 23:27:02
+Guild Street,21,19,False,40,False,Dublin,2018-03-02 23:16:45,GUILD STREET,49,"{'lat': 53.347932, 'lng': -6.240928}",CLOSED,02-03-2018 23:27:02
+Herbert Place,19,11,False,30,False,Dublin,2018-03-02 23:22:02,HERBERT PLACE,19,"{'lat': 53.334432, 'lng': -6.245575}",CLOSED,02-03-2018 23:27:02
+High Street,9,20,True,29,False,Dublin,2018-03-02 23:25:31,HIGH STREET,7,"{'lat': 53.343565, 'lng': -6.275071}",CLOSED,02-03-2018 23:27:02
+North Circular Road,17,13,True,30,False,Dublin,2018-03-02 23:17:37,NORTH CIRCULAR ROAD,60,"{'lat': 53.359624, 'lng': -6.260348}",CLOSED,02-03-2018 23:27:02
+Western Way,40,0,False,40,False,Dublin,2018-03-02 23:23:33,WESTERN WAY,102,"{'lat': 53.354929, 'lng': -6.269425}",CLOSED,02-03-2018 23:27:02
+Talbot Street,0,40,False,40,False,Dublin,2018-03-02 23:19:57,TALBOT STREET,38,"{'lat': 53.350974, 'lng': -6.25294}",CLOSED,02-03-2018 23:27:02
+Newman House,32,8,False,40,False,Dublin,2018-03-02 23:22:25,NEWMAN HOUSE,53,"{'lat': 53.337132, 'lng': -6.26059}",CLOSED,02-03-2018 23:27:02
+Sir Patrick's Dun,29,11,True,40,False,Dublin,2018-03-02 23:21:04,SIR PATRICK DUN'S,58,"{'lat': 53.339218, 'lng': -6.240642}",CLOSED,02-03-2018 23:27:02
+New Central Bank,31,9,False,40,False,Dublin,2018-03-02 23:17:52,NEW CENTRAL BANK,66,"{'lat': 53.347122, 'lng': -6.234749}",CLOSED,02-03-2018 23:27:02
+King Street North,23,7,False,30,False,Dublin,2018-03-02 23:17:13,KING STREET NORTH,101,"{'lat': 53.350291, 'lng': -6.273507}",CLOSED,02-03-2018 23:27:02
+Herbert Street,38,2,False,40,False,Dublin,2018-03-02 23:26:20,HERBERT STREET,47,"{'lat': 53.335742, 'lng': -6.24551}",CLOSED,02-03-2018 23:27:02
+Custom House Quay,22,8,False,30,False,Dublin,2018-03-02 23:23:21,CUSTOM HOUSE QUAY,8,"{'lat': 53.347884, 'lng': -6.248048}",CLOSED,02-03-2018 23:27:02
+Molesworth Street,18,2,False,20,False,Dublin,2018-03-02 23:17:52,MOLESWORTH STREET,27,"{'lat': 53.341288, 'lng': -6.258117}",CLOSED,02-03-2018 23:27:02
+Georges Quay,0,20,False,20,False,Dublin,2018-03-02 23:23:31,GEORGES QUAY,16,"{'lat': 53.347508, 'lng': -6.252192}",CLOSED,02-03-2018 23:27:02
+Kilmainham Lane,27,3,False,30,False,Dublin,2018-03-02 23:19:36,KILMAINHAM LANE,96,"{'lat': 53.341805, 'lng': -6.305085}",CLOSED,02-03-2018 23:27:02
+Mount Brown,2,20,False,22,False,Dublin,2018-03-02 23:19:24,MOUNT BROWN,82,"{'lat': 53.341645, 'lng': -6.29719}",CLOSED,02-03-2018 23:27:02
+Market Street South,13,25,False,38,False,Dublin,2018-03-02 23:19:55,MARKET STREET SOUTH,76,"{'lat': 53.342296, 'lng': -6.287661}",CLOSED,02-03-2018 23:27:02
+Kevin Street,31,9,True,40,False,Dublin,2018-03-02 23:22:12,KEVIN STREET,71,"{'lat': 53.337757, 'lng': -6.267699}",CLOSED,02-03-2018 23:27:02
+Eccles Street East,18,9,False,27,False,Dublin,2018-03-02 23:21:42,ECCLES STREET EAST,79,"{'lat': 53.358115, 'lng': -6.265601}",CLOSED,02-03-2018 23:27:02
+Grand Canal Dock,23,17,False,40,False,Dublin,2018-03-02 23:23:52,GRAND CANAL DOCK,69,"{'lat': 53.342638, 'lng': -6.238695}",CLOSED,02-03-2018 23:27:02
+Merrion Square East,24,5,False,30,False,Dublin,2018-03-02 23:20:38,MERRION SQUARE EAST,25,"{'lat': 53.339434, 'lng': -6.246548}",CLOSED,02-03-2018 23:27:02
+York Street West,38,2,False,40,False,Dublin,2018-03-02 23:23:02,YORK STREET WEST,51,"{'lat': 53.339334, 'lng': -6.264699}",CLOSED,02-03-2018 23:27:02
+St. Stephen's Green South,21,9,True,30,False,Dublin,2018-03-02 23:16:50,ST. STEPHEN'S GREEN SOUTH,37,"{'lat': 53.337494, 'lng': -6.26199}",CLOSED,02-03-2018 23:27:02
+Denmark Street Great,18,2,False,20,False,Dublin,2018-03-02 23:20:35,DENMARK STREET GREAT,59,"{'lat': 53.35561, 'lng': -6.261397}",CLOSED,02-03-2018 23:27:02
+Royal Hospital,23,17,True,40,False,Dublin,2018-03-02 23:17:52,ROYAL HOSPITAL,95,"{'lat': 53.343897, 'lng': -6.29706}",CLOSED,02-03-2018 23:27:02
+Heuston Station (Car Park),21,19,False,40,False,Dublin,2018-03-02 23:26:00,HEUSTON STATION (CAR PARK),94,"{'lat': 53.346985, 'lng': -6.297804}",CLOSED,02-03-2018 23:27:02
+St. Stephen's Green East,33,7,True,40,False,Dublin,2018-03-02 23:23:40,ST. STEPHEN'S GREEN EAST,36,"{'lat': 53.337824, 'lng': -6.256035}",CLOSED,02-03-2018 23:27:02
+Heuston Station (Central),0,40,False,40,False,Dublin,2018-03-02 23:17:44,HEUSTON STATION (CENTRAL),93,"{'lat': 53.346603, 'lng': -6.296924}",CLOSED,02-03-2018 23:27:02
+Townsend Street,8,12,False,20,False,Dublin,2018-03-02 23:24:29,TOWNSEND STREET,22,"{'lat': 53.345922, 'lng': -6.254614}",CLOSED,02-03-2018 23:27:02
+Eccles Street,3,17,False,20,False,Dublin,2018-03-02 23:25:09,ECCLES STREET,12,"{'lat': 53.359246, 'lng': -6.269779}",CLOSED,02-03-2018 23:27:02
+Portobello Harbour,17,13,False,30,False,Dublin,2018-03-02 23:19:33,PORTOBELLO HARBOUR,34,"{'lat': 53.330362, 'lng': -6.265163}",CLOSED,02-03-2018 23:27:02
+Mater Hospital,7,33,False,40,False,Dublin,2018-03-02 23:25:49,MATER HOSPITAL,78,"{'lat': 53.359967, 'lng': -6.264828}",CLOSED,02-03-2018 23:27:02
+Blessington Street,14,6,True,20,False,Dublin,2018-03-02 23:25:53,BLESSINGTON STREET,2,"{'lat': 53.356769, 'lng': -6.26814}",CLOSED,02-03-2018 23:27:02
+James Street,8,32,True,40,False,Dublin,2018-03-02 23:17:12,JAMES STREET,75,"{'lat': 53.343456, 'lng': -6.287409}",CLOSED,02-03-2018 23:27:02
+Merrion Square West,13,7,True,20,False,Dublin,2018-03-02 23:20:41,MERRION SQUARE WEST,26,"{'lat': 53.339764, 'lng': -6.251988}",CLOSED,02-03-2018 23:27:02
+Convention Centre,36,4,True,40,False,Dublin,2018-03-02 23:18:11,CONVENTION CENTRE,65,"{'lat': 53.34744, 'lng': -6.238523}",CLOSED,02-03-2018 23:27:02
+Hardwicke Street,13,3,False,16,False,Dublin,2018-03-02 23:24:04,HARDWICKE STREET,15,"{'lat': 53.355473, 'lng': -6.264423}",CLOSED,02-03-2018 23:27:02
+Parkgate Street,8,30,True,38,False,Dublin,2018-03-02 23:25:38,PARKGATE STREET,86,"{'lat': 53.347972, 'lng': -6.291804}",CLOSED,02-03-2018 23:27:02
+Smithfield,26,4,False,30,False,Dublin,2018-03-02 23:20:31,SMITHFIELD,35,"{'lat': 53.347692, 'lng': -6.278214}",CLOSED,02-03-2018 23:27:02
+Dame Street,13,3,True,16,False,Dublin,2018-03-02 23:21:51,DAME STREET,10,"{'lat': 53.344007, 'lng': -6.266802}",CLOSED,02-03-2018 23:27:02
+Heuston Bridge (South),5,20,False,25,False,Dublin,2018-03-02 23:24:31,HEUSTON BRIDGE (SOUTH),100,"{'lat': 53.347106, 'lng': -6.292041}",CLOSED,02-03-2018 23:27:02
+Cathal Brugha Street,4,15,False,20,False,Dublin,2018-03-02 23:26:29,CATHAL BRUGHA STREET,24,"{'lat': 53.352149, 'lng': -6.260533}",CLOSED,02-03-2018 23:27:02
+Sandwith Street,31,9,True,40,False,Dublin,2018-03-02 23:17:46,SANDWITH STREET,64,"{'lat': 53.345203, 'lng': -6.247163}",CLOSED,02-03-2018 23:27:02
+Rothe Abbey,9,26,True,35,False,Dublin,2018-03-02 23:23:04,ROTHE ABBEY,85,"{'lat': 53.338776, 'lng': -6.30395}",CLOSED,02-03-2018 23:27:02
+Princes Street / O'Connell Street,8,15,True,23,False,Dublin,2018-03-02 23:21:40,PRINCES STREET / O'CONNELL STREET,33,"{'lat': 53.349013, 'lng': -6.260311}",CLOSED,02-03-2018 23:27:02
+Upper Sherrard Street,5,25,False,30,False,Dublin,2018-03-02 23:24:37,UPPER SHERRARD STREET,44,"{'lat': 53.358437, 'lng': -6.260641}",CLOSED,02-03-2018 23:27:02
+Fitzwilliam Square East,35,5,True,40,False,Dublin,2018-03-02 23:20:56,FITZWILLIAM SQUARE EAST,89,"{'lat': 53.335211, 'lng': -6.2509}",CLOSED,02-03-2018 23:27:02
+Grattan Street,21,2,False,23,False,Dublin,2018-03-02 23:19:08,GRATTAN STREET,57,"{'lat': 53.339629, 'lng': -6.243778}",CLOSED,02-03-2018 23:27:02
+St James Hospital (Luas),11,29,False,40,False,Dublin,2018-03-02 23:18:11,ST JAMES HOSPITAL (LUAS),80,"{'lat': 53.341359, 'lng': -6.292951}",CLOSED,02-03-2018 23:27:02
+Harcourt Terrace,16,4,False,20,False,Dublin,2018-03-02 23:20:51,HARCOURT TERRACE,41,"{'lat': 53.332763, 'lng': -6.257942}",CLOSED,02-03-2018 23:27:02
+Bolton Street,19,1,False,20,False,Dublin,2018-03-02 23:23:06,BOLTON STREET,3,"{'lat': 53.351182, 'lng': -6.269859}",CLOSED,02-03-2018 23:27:02
+Strand Street Great,33,2,True,35,False,Dublin,2018-03-02 23:18:55,STRAND STREET GREAT,46,"{'lat': 53.347082, 'lng': -6.2641919999999995}",CLOSED,02-03-2018 23:27:02
+Jervis Street,19,2,True,21,False,Dublin,2018-03-02 23:16:49,JERVIS STREET,40,"{'lat': 53.3483, 'lng': -6.2666509999999995}",CLOSED,02-03-2018 23:27:02
+Ormond Quay Upper,29,0,True,29,False,Dublin,2018-03-02 23:18:52,ORMOND QUAY UPPER,29,"{'lat': 53.346057, 'lng': -6.268001}",CLOSED,02-03-2018 23:27:02
+Barrow Street,16,24,True,40,False,Dublin,2018-03-02 23:22:23,BARROW STREET,70,"{'lat': 53.341655, 'lng': -6.236198}",CLOSED,02-03-2018 23:27:02
+Mountjoy Square West,12,18,False,30,False,Dublin,2018-03-02 23:20:30,MOUNTJOY SQUARE WEST,28,"{'lat': 53.356299, 'lng': -6.258586}",CLOSED,02-03-2018 23:27:02
+Wilton Terrace,5,15,True,20,False,Dublin,2018-03-02 23:25:51,WILTON TERRACE,39,"{'lat': 53.332383, 'lng': -6.252717}",CLOSED,02-03-2018 23:27:02
+Emmet Road,22,18,False,40,False,Dublin,2018-03-02 23:18:58,EMMET ROAD,83,"{'lat': 53.340714, 'lng': -6.308191}",CLOSED,02-03-2018 23:27:02
+Heuston Bridge (North),23,17,False,40,False,Dublin,2018-03-02 23:18:00,HEUSTON BRIDGE (NORTH),92,"{'lat': 53.347802, 'lng': -6.292432}",CLOSED,02-03-2018 23:27:02
+Leinster Street South,9,21,False,30,False,Dublin,2018-03-02 23:23:26,LEINSTER STREET SOUTH,21,"{'lat': 53.34218, 'lng': -6.254485}",CLOSED,02-03-2018 23:27:02
+Blackhall Place,14,16,False,30,False,Dublin,2018-03-02 23:24:27,BLACKHALL PLACE,88,"{'lat': 53.3488, 'lng': -6.281637}",CLOSED,02-03-2018 23:27:02
+address,available_bike_stands,available_bikes,banking,bike_stands,bonus,contract_name,last_update,name,number,position,status,scrape_datetime
+Smithfield North,14,16,True,30,False,Dublin,2018-03-02 23:20:19,SMITHFIELD NORTH,42,"{'lat': 53.349562, 'lng': -6.278198}",CLOSED,02-03-2018 23:28:02
+Parnell Square North,18,2,True,20,False,Dublin,2018-03-02 23:19:46,PARNELL SQUARE NORTH,30,"{'lat': 53.353462, 'lng': -6.265305}",CLOSED,02-03-2018 23:28:02
+Clonmel Street,30,3,False,33,False,Dublin,2018-03-02 23:23:50,CLONMEL STREET,54,"{'lat': 53.336021, 'lng': -6.26298}",CLOSED,02-03-2018 23:28:02
+Mount Street Lower,32,8,False,40,False,Dublin,2018-03-02 23:18:26,MOUNT STREET LOWER,56,"{'lat': 53.33796, 'lng': -6.24153}",CLOSED,02-03-2018 23:28:02
+Christchurch Place,19,1,False,20,False,Dublin,2018-03-02 23:21:13,CHRISTCHURCH PLACE,6,"{'lat': 53.343368, 'lng': -6.27012}",CLOSED,02-03-2018 23:28:02
+Grantham Street,7,23,True,30,False,Dublin,2018-03-02 23:25:40,GRANTHAM STREET,18,"{'lat': 53.334123, 'lng': -6.265436}",CLOSED,02-03-2018 23:28:02
+Pearse Street,23,7,True,30,False,Dublin,2018-03-02 23:22:37,PEARSE STREET,32,"{'lat': 53.344304, 'lng': -6.250427}",CLOSED,02-03-2018 23:28:02
+York Street East,28,4,False,32,False,Dublin,2018-03-02 23:18:19,YORK STREET EAST,52,"{'lat': 53.338755, 'lng': -6.262003}",CLOSED,02-03-2018 23:28:02
+Excise Walk,27,13,False,40,False,Dublin,2018-03-02 23:20:53,EXCISE WALK,48,"{'lat': 53.347777, 'lng': -6.244239}",CLOSED,02-03-2018 23:28:02
+Fitzwilliam Square West,27,3,False,30,False,Dublin,2018-03-02 23:22:02,FITZWILLIAM SQUARE WEST,13,"{'lat': 53.336073999999996, 'lng': -6.252825}",CLOSED,02-03-2018 23:28:02
+Portobello Road,3,27,True,30,False,Dublin,2018-03-02 23:24:10,PORTOBELLO ROAD,43,"{'lat': 53.330091, 'lng': -6.268044}",CLOSED,02-03-2018 23:28:02
+St. James Hospital (Central),18,22,False,40,False,Dublin,2018-03-02 23:20:24,ST. JAMES HOSPITAL (CENTRAL),81,"{'lat': 53.339983, 'lng': -6.295594}",CLOSED,02-03-2018 23:28:02
+Parnell Street,15,5,False,20,False,Dublin,2018-03-02 23:25:56,PARNELL STREET,31,"{'lat': 53.350929, 'lng': -6.265125}",CLOSED,02-03-2018 23:28:02
+Frederick Street South,30,0,True,30,False,Dublin,2018-03-02 23:27:07,FREDERICK STREET SOUTH,98,"{'lat': 53.341515, 'lng': -6.2568529999999996}",CLOSED,02-03-2018 23:28:02
+Fownes Street Upper,14,16,False,30,False,Dublin,2018-03-02 23:25:34,FOWNES STREET UPPER,14,"{'lat': 53.344603, 'lng': -6.263371}",CLOSED,02-03-2018 23:28:02
+Clarendon Row,25,6,False,31,False,Dublin,2018-03-02 23:23:07,CLARENDON ROW,1,"{'lat': 53.340927, 'lng': -6.262501}",CLOSED,02-03-2018 23:28:02
+Custom House,0,30,True,30,False,Dublin,2018-03-02 23:26:24,CUSTOM HOUSE,23,"{'lat': 53.348279, 'lng': -6.254662}",CLOSED,02-03-2018 23:28:02
+Hanover Quay,29,11,True,40,False,Dublin,2018-03-02 23:18:29,HANOVER QUAY,68,"{'lat': 53.344115, 'lng': -6.237153}",CLOSED,02-03-2018 23:28:02
+Oliver Bond Street,2,28,False,30,False,Dublin,2018-03-02 23:26:53,OLIVER BOND STREET,74,"{'lat': 53.343893, 'lng': -6.280531}",CLOSED,02-03-2018 23:28:02
+Collins Barracks Museum,26,12,True,38,False,Dublin,2018-03-02 23:18:37,COLLINS BARRACKS MUSEUM,87,"{'lat': 53.347477, 'lng': -6.28525}",CLOSED,02-03-2018 23:28:02
+Brookfield Road,1,29,False,30,False,Dublin,2018-03-02 23:23:53,BROOKFIELD ROAD,84,"{'lat': 53.339005, 'lng': -6.300217}",CLOSED,02-03-2018 23:28:02
+Benson Street,31,9,False,40,False,Dublin,2018-03-02 23:27:24,BENSON STREET,90,"{'lat': 53.344153, 'lng': -6.233451}",CLOSED,02-03-2018 23:28:02
+Earlsfort Terrace,26,4,False,30,False,Dublin,2018-03-02 23:27:14,EARLSFORT TERRACE,11,"{'lat': 53.334019, 'lng': -6.258371}",CLOSED,02-03-2018 23:28:02
+Golden Lane,10,10,False,20,False,Dublin,2018-03-02 23:22:42,GOLDEN LANE,17,"{'lat': 53.340803, 'lng': -6.267732}",CLOSED,02-03-2018 23:28:02
+Deverell Place,2,28,False,30,False,Dublin,2018-03-02 23:24:40,DEVERELL PLACE,45,"{'lat': 53.351464, 'lng': -6.255265}",CLOSED,02-03-2018 23:28:02
+John Street West,22,9,False,31,False,Dublin,2018-03-02 23:19:22,JOHN STREET WEST,72,"{'lat': 53.343105, 'lng': -6.277167}",CLOSED,02-03-2018 23:28:02
+Fenian Street,15,20,False,35,False,Dublin,2018-03-02 23:24:48,FENIAN STREET,63,"{'lat': 53.341428, 'lng': -6.24672}",CLOSED,02-03-2018 23:28:02
+South Dock Road,2,28,False,30,False,Dublin,2018-03-02 23:23:05,SOUTH DOCK ROAD,91,"{'lat': 53.341833, 'lng': -6.231291}",CLOSED,02-03-2018 23:28:02
+City Quay,12,18,False,30,False,Dublin,2018-03-02 23:20:42,CITY QUAY,99,"{'lat': 53.346637, 'lng': -6.246154}",CLOSED,02-03-2018 23:28:02
+Exchequer Street,17,7,False,24,False,Dublin,2018-03-02 23:26:30,EXCHEQUER STREET,9,"{'lat': 53.343034, 'lng': -6.263578}",CLOSED,02-03-2018 23:28:02
+The Point,22,18,True,40,False,Dublin,2018-03-02 23:20:01,THE POINT,67,"{'lat': 53.346867, 'lng': -6.230852}",CLOSED,02-03-2018 23:28:02
+Hatch Street,35,1,False,36,False,Dublin,2018-03-02 23:19:46,HATCH STREET,55,"{'lat': 53.33403, 'lng': -6.260714}",CLOSED,02-03-2018 23:28:02
+Lime Street,35,5,False,40,False,Dublin,2018-03-02 23:27:06,LIME STREET,62,"{'lat': 53.346026, 'lng': -6.243576}",CLOSED,02-03-2018 23:28:02
+Charlemont Street,2,38,False,40,False,Dublin,2018-03-02 23:27:22,CHARLEMONT PLACE,5,"{'lat': 53.330662, 'lng': -6.260177}",CLOSED,02-03-2018 23:28:02
+Kilmainham Gaol,12,28,True,40,False,Dublin,2018-03-02 23:24:49,KILMAINHAM GAOL,97,"{'lat': 53.342113, 'lng': -6.310015}",CLOSED,02-03-2018 23:28:02
+Hardwicke Place,21,4,True,25,False,Dublin,2018-03-02 23:22:51,HARDWICKE PLACE,61,"{'lat': 53.357043, 'lng': -6.263232}",CLOSED,02-03-2018 23:28:02
+Wolfe Tone Street,29,0,False,29,False,Dublin,2018-03-02 23:24:19,WOLFE TONE STREET,77,"{'lat': 53.348875, 'lng': -6.267459}",CLOSED,02-03-2018 23:28:02
+Francis Street,12,18,True,30,False,Dublin,2018-03-02 23:24:16,FRANCIS STREET,73,"{'lat': 53.342081, 'lng': -6.275233}",CLOSED,02-03-2018 23:28:02
+Greek Street,18,2,False,20,False,Dublin,2018-03-02 23:23:55,GREEK STREET,4,"{'lat': 53.346874, 'lng': -6.272976}",CLOSED,02-03-2018 23:28:02
+Guild Street,21,19,False,40,False,Dublin,2018-03-02 23:26:47,GUILD STREET,49,"{'lat': 53.347932, 'lng': -6.240928}",CLOSED,02-03-2018 23:28:02
+Herbert Place,19,11,False,30,False,Dublin,2018-03-02 23:22:02,HERBERT PLACE,19,"{'lat': 53.334432, 'lng': -6.245575}",CLOSED,02-03-2018 23:28:02
+High Street,9,20,True,29,False,Dublin,2018-03-02 23:25:31,HIGH STREET,7,"{'lat': 53.343565, 'lng': -6.275071}",CLOSED,02-03-2018 23:28:02
+North Circular Road,17,13,True,30,False,Dublin,2018-03-02 23:17:37,NORTH CIRCULAR ROAD,60,"{'lat': 53.359624, 'lng': -6.260348}",CLOSED,02-03-2018 23:28:02
+Western Way,40,0,False,40,False,Dublin,2018-03-02 23:23:33,WESTERN WAY,102,"{'lat': 53.354929, 'lng': -6.269425}",CLOSED,02-03-2018 23:28:02
+Talbot Street,0,40,False,40,False,Dublin,2018-03-02 23:19:57,TALBOT STREET,38,"{'lat': 53.350974, 'lng': -6.25294}",CLOSED,02-03-2018 23:28:02
+Newman House,32,8,False,40,False,Dublin,2018-03-02 23:22:25,NEWMAN HOUSE,53,"{'lat': 53.337132, 'lng': -6.26059}",CLOSED,02-03-2018 23:28:02
+Sir Patrick's Dun,29,11,True,40,False,Dublin,2018-03-02 23:21:04,SIR PATRICK DUN'S,58,"{'lat': 53.339218, 'lng': -6.240642}",CLOSED,02-03-2018 23:28:02
+New Central Bank,31,9,False,40,False,Dublin,2018-03-02 23:17:52,NEW CENTRAL BANK,66,"{'lat': 53.347122, 'lng': -6.234749}",CLOSED,02-03-2018 23:28:02
+King Street North,23,7,False,30,False,Dublin,2018-03-02 23:27:17,KING STREET NORTH,101,"{'lat': 53.350291, 'lng': -6.273507}",CLOSED,02-03-2018 23:28:02
+Herbert Street,38,2,False,40,False,Dublin,2018-03-02 23:26:20,HERBERT STREET,47,"{'lat': 53.335742, 'lng': -6.24551}",CLOSED,02-03-2018 23:28:02
+Custom House Quay,22,8,False,30,False,Dublin,2018-03-02 23:23:21,CUSTOM HOUSE QUAY,8,"{'lat': 53.347884, 'lng': -6.248048}",CLOSED,02-03-2018 23:28:02
+Molesworth Street,18,2,False,20,False,Dublin,2018-03-02 23:17:52,MOLESWORTH STREET,27,"{'lat': 53.341288, 'lng': -6.258117}",CLOSED,02-03-2018 23:28:02
+Georges Quay,0,20,False,20,False,Dublin,2018-03-02 23:23:31,GEORGES QUAY,16,"{'lat': 53.347508, 'lng': -6.252192}",CLOSED,02-03-2018 23:28:02
+Kilmainham Lane,27,3,False,30,False,Dublin,2018-03-02 23:19:36,KILMAINHAM LANE,96,"{'lat': 53.341805, 'lng': -6.305085}",CLOSED,02-03-2018 23:28:02
+Mount Brown,2,20,False,22,False,Dublin,2018-03-02 23:19:24,MOUNT BROWN,82,"{'lat': 53.341645, 'lng': -6.29719}",CLOSED,02-03-2018 23:28:02
+Market Street South,13,25,False,38,False,Dublin,2018-03-02 23:19:55,MARKET STREET SOUTH,76,"{'lat': 53.342296, 'lng': -6.287661}",CLOSED,02-03-2018 23:28:02
+Kevin Street,31,9,True,40,False,Dublin,2018-03-02 23:22:12,KEVIN STREET,71,"{'lat': 53.337757, 'lng': -6.267699}",CLOSED,02-03-2018 23:28:02
+Eccles Street East,18,9,False,27,False,Dublin,2018-03-02 23:21:42,ECCLES STREET EAST,79,"{'lat': 53.358115, 'lng': -6.265601}",CLOSED,02-03-2018 23:28:02
+Grand Canal Dock,23,17,False,40,False,Dublin,2018-03-02 23:23:52,GRAND CANAL DOCK,69,"{'lat': 53.342638, 'lng': -6.238695}",CLOSED,02-03-2018 23:28:02
+Merrion Square East,24,5,False,30,False,Dublin,2018-03-02 23:20:38,MERRION SQUARE EAST,25,"{'lat': 53.339434, 'lng': -6.246548}",CLOSED,02-03-2018 23:28:02
+York Street West,38,2,False,40,False,Dublin,2018-03-02 23:23:02,YORK STREET WEST,51,"{'lat': 53.339334, 'lng': -6.264699}",CLOSED,02-03-2018 23:28:02
+St. Stephen's Green South,21,9,True,30,False,Dublin,2018-03-02 23:26:54,ST. STEPHEN'S GREEN SOUTH,37,"{'lat': 53.337494, 'lng': -6.26199}",CLOSED,02-03-2018 23:28:02
+Denmark Street Great,18,2,False,20,False,Dublin,2018-03-02 23:20:35,DENMARK STREET GREAT,59,"{'lat': 53.35561, 'lng': -6.261397}",CLOSED,02-03-2018 23:28:02
+Royal Hospital,23,17,True,40,False,Dublin,2018-03-02 23:17:52,ROYAL HOSPITAL,95,"{'lat': 53.343897, 'lng': -6.29706}",CLOSED,02-03-2018 23:28:02
+Heuston Station (Car Park),21,19,False,40,False,Dublin,2018-03-02 23:26:00,HEUSTON STATION (CAR PARK),94,"{'lat': 53.346985, 'lng': -6.297804}",CLOSED,02-03-2018 23:28:02
+St. Stephen's Green East,33,7,True,40,False,Dublin,2018-03-02 23:23:40,ST. STEPHEN'S GREEN EAST,36,"{'lat': 53.337824, 'lng': -6.256035}",CLOSED,02-03-2018 23:28:02
+Heuston Station (Central),0,40,False,40,False,Dublin,2018-03-02 23:17:44,HEUSTON STATION (CENTRAL),93,"{'lat': 53.346603, 'lng': -6.296924}",CLOSED,02-03-2018 23:28:02
+Townsend Street,8,12,False,20,False,Dublin,2018-03-02 23:24:29,TOWNSEND STREET,22,"{'lat': 53.345922, 'lng': -6.254614}",CLOSED,02-03-2018 23:28:02
+Eccles Street,3,17,False,20,False,Dublin,2018-03-02 23:25:09,ECCLES STREET,12,"{'lat': 53.359246, 'lng': -6.269779}",CLOSED,02-03-2018 23:28:02
+Portobello Harbour,17,13,False,30,False,Dublin,2018-03-02 23:19:33,PORTOBELLO HARBOUR,34,"{'lat': 53.330362, 'lng': -6.265163}",CLOSED,02-03-2018 23:28:02
+Mater Hospital,7,33,False,40,False,Dublin,2018-03-02 23:25:49,MATER HOSPITAL,78,"{'lat': 53.359967, 'lng': -6.264828}",CLOSED,02-03-2018 23:28:02
+Blessington Street,14,6,True,20,False,Dublin,2018-03-02 23:25:53,BLESSINGTON STREET,2,"{'lat': 53.356769, 'lng': -6.26814}",CLOSED,02-03-2018 23:28:02
+James Street,8,32,True,40,False,Dublin,2018-03-02 23:27:17,JAMES STREET,75,"{'lat': 53.343456, 'lng': -6.287409}",CLOSED,02-03-2018 23:28:02
+Merrion Square West,13,7,True,20,False,Dublin,2018-03-02 23:20:41,MERRION SQUARE WEST,26,"{'lat': 53.339764, 'lng': -6.251988}",CLOSED,02-03-2018 23:28:02
+Convention Centre,36,4,True,40,False,Dublin,2018-03-02 23:18:11,CONVENTION CENTRE,65,"{'lat': 53.34744, 'lng': -6.238523}",CLOSED,02-03-2018 23:28:02
+Hardwicke Street,13,3,False,16,False,Dublin,2018-03-02 23:24:04,HARDWICKE STREET,15,"{'lat': 53.355473, 'lng': -6.264423}",CLOSED,02-03-2018 23:28:02
+Parkgate Street,8,30,True,38,False,Dublin,2018-03-02 23:25:38,PARKGATE STREET,86,"{'lat': 53.347972, 'lng': -6.291804}",CLOSED,02-03-2018 23:28:02
+Smithfield,26,4,False,30,False,Dublin,2018-03-02 23:20:31,SMITHFIELD,35,"{'lat': 53.347692, 'lng': -6.278214}",CLOSED,02-03-2018 23:28:02
+Dame Street,13,3,True,16,False,Dublin,2018-03-02 23:21:51,DAME STREET,10,"{'lat': 53.344007, 'lng': -6.266802}",CLOSED,02-03-2018 23:28:02
+Heuston Bridge (South),5,20,False,25,False,Dublin,2018-03-02 23:24:31,HEUSTON BRIDGE (SOUTH),100,"{'lat': 53.347106, 'lng': -6.292041}",CLOSED,02-03-2018 23:28:02
+Cathal Brugha Street,4,15,False,20,False,Dublin,2018-03-02 23:26:29,CATHAL BRUGHA STREET,24,"{'lat': 53.352149, 'lng': -6.260533}",CLOSED,02-03-2018 23:28:02
+Sandwith Street,31,9,True,40,False,Dublin,2018-03-02 23:17:46,SANDWITH STREET,64,"{'lat': 53.345203, 'lng': -6.247163}",CLOSED,02-03-2018 23:28:02
+Rothe Abbey,9,26,True,35,False,Dublin,2018-03-02 23:23:04,ROTHE ABBEY,85,"{'lat': 53.338776, 'lng': -6.30395}",CLOSED,02-03-2018 23:28:02
+Princes Street / O'Connell Street,8,15,True,23,False,Dublin,2018-03-02 23:21:40,PRINCES STREET / O'CONNELL STREET,33,"{'lat': 53.349013, 'lng': -6.260311}",CLOSED,02-03-2018 23:28:02
+Upper Sherrard Street,5,25,False,30,False,Dublin,2018-03-02 23:24:37,UPPER SHERRARD STREET,44,"{'lat': 53.358437, 'lng': -6.260641}",CLOSED,02-03-2018 23:28:02
+Fitzwilliam Square East,35,5,True,40,False,Dublin,2018-03-02 23:20:56,FITZWILLIAM SQUARE EAST,89,"{'lat': 53.335211, 'lng': -6.2509}",CLOSED,02-03-2018 23:28:02
+Grattan Street,21,2,False,23,False,Dublin,2018-03-02 23:19:08,GRATTAN STREET,57,"{'lat': 53.339629, 'lng': -6.243778}",CLOSED,02-03-2018 23:28:02
+St James Hospital (Luas),11,29,False,40,False,Dublin,2018-03-02 23:18:11,ST JAMES HOSPITAL (LUAS),80,"{'lat': 53.341359, 'lng': -6.292951}",CLOSED,02-03-2018 23:28:02
+Harcourt Terrace,16,4,False,20,False,Dublin,2018-03-02 23:20:51,HARCOURT TERRACE,41,"{'lat': 53.332763, 'lng': -6.257942}",CLOSED,02-03-2018 23:28:02
+Bolton Street,19,1,False,20,False,Dublin,2018-03-02 23:23:06,BOLTON STREET,3,"{'lat': 53.351182, 'lng': -6.269859}",CLOSED,02-03-2018 23:28:02
+Strand Street Great,33,2,True,35,False,Dublin,2018-03-02 23:18:55,STRAND STREET GREAT,46,"{'lat': 53.347082, 'lng': -6.2641919999999995}",CLOSED,02-03-2018 23:28:02
+Jervis Street,19,2,True,21,False,Dublin,2018-03-02 23:26:58,JERVIS STREET,40,"{'lat': 53.3483, 'lng': -6.2666509999999995}",CLOSED,02-03-2018 23:28:02
+Ormond Quay Upper,29,0,True,29,False,Dublin,2018-03-02 23:18:52,ORMOND QUAY UPPER,29,"{'lat': 53.346057, 'lng': -6.268001}",CLOSED,02-03-2018 23:28:02
+Barrow Street,16,24,True,40,False,Dublin,2018-03-02 23:22:23,BARROW STREET,70,"{'lat': 53.341655, 'lng': -6.236198}",CLOSED,02-03-2018 23:28:02
+Mountjoy Square West,12,18,False,30,False,Dublin,2018-03-02 23:20:30,MOUNTJOY SQUARE WEST,28,"{'lat': 53.356299, 'lng': -6.258586}",CLOSED,02-03-2018 23:28:02
+Wilton Terrace,5,15,True,20,False,Dublin,2018-03-02 23:25:51,WILTON TERRACE,39,"{'lat': 53.332383, 'lng': -6.252717}",CLOSED,02-03-2018 23:28:02
+Emmet Road,22,18,False,40,False,Dublin,2018-03-02 23:18:58,EMMET ROAD,83,"{'lat': 53.340714, 'lng': -6.308191}",CLOSED,02-03-2018 23:28:02
+Heuston Bridge (North),23,17,False,40,False,Dublin,2018-03-02 23:18:00,HEUSTON BRIDGE (NORTH),92,"{'lat': 53.347802, 'lng': -6.292432}",CLOSED,02-03-2018 23:28:02
+Leinster Street South,9,21,False,30,False,Dublin,2018-03-02 23:23:26,LEINSTER STREET SOUTH,21,"{'lat': 53.34218, 'lng': -6.254485}",CLOSED,02-03-2018 23:28:02
+Blackhall Place,14,16,False,30,False,Dublin,2018-03-02 23:24:27,BLACKHALL PLACE,88,"{'lat': 53.3488, 'lng': -6.281637}",CLOSED,02-03-2018 23:28:02
+address,available_bike_stands,available_bikes,banking,bike_stands,bonus,contract_name,last_update,name,number,position,status,scrape_datetime
+Smithfield North,14,16,True,30,False,Dublin,2018-03-02 23:20:19,SMITHFIELD NORTH,42,"{'lat': 53.349562, 'lng': -6.278198}",CLOSED,02-03-2018 23:29:02
+Parnell Square North,18,2,True,20,False,Dublin,2018-03-02 23:19:46,PARNELL SQUARE NORTH,30,"{'lat': 53.353462, 'lng': -6.265305}",CLOSED,02-03-2018 23:29:02
+Clonmel Street,30,3,False,33,False,Dublin,2018-03-02 23:23:50,CLONMEL STREET,54,"{'lat': 53.336021, 'lng': -6.26298}",CLOSED,02-03-2018 23:29:02
+Mount Street Lower,32,8,False,40,False,Dublin,2018-03-02 23:28:33,MOUNT STREET LOWER,56,"{'lat': 53.33796, 'lng': -6.24153}",CLOSED,02-03-2018 23:29:02
+Christchurch Place,19,1,False,20,False,Dublin,2018-03-02 23:21:13,CHRISTCHURCH PLACE,6,"{'lat': 53.343368, 'lng': -6.27012}",CLOSED,02-03-2018 23:29:02
+Grantham Street,7,23,True,30,False,Dublin,2018-03-02 23:25:40,GRANTHAM STREET,18,"{'lat': 53.334123, 'lng': -6.265436}",CLOSED,02-03-2018 23:29:02
+Pearse Street,23,7,True,30,False,Dublin,2018-03-02 23:22:37,PEARSE STREET,32,"{'lat': 53.344304, 'lng': -6.250427}",CLOSED,02-03-2018 23:29:02
+York Street East,28,4,False,32,False,Dublin,2018-03-02 23:28:33,YORK STREET EAST,52,"{'lat': 53.338755, 'lng': -6.262003}",CLOSED,02-03-2018 23:29:02
+Excise Walk,27,13,False,40,False,Dublin,2018-03-02 23:20:53,EXCISE WALK,48,"{'lat': 53.347777, 'lng': -6.244239}",CLOSED,02-03-2018 23:29:02
+Fitzwilliam Square West,27,3,False,30,False,Dublin,2018-03-02 23:22:02,FITZWILLIAM SQUARE WEST,13,"{'lat': 53.336073999999996, 'lng': -6.252825}",CLOSED,02-03-2018 23:29:02
+Portobello Road,3,27,True,30,False,Dublin,2018-03-02 23:24:10,PORTOBELLO ROAD,43,"{'lat': 53.330091, 'lng': -6.268044}",CLOSED,02-03-2018 23:29:02
+St. James Hospital (Central),18,22,False,40,False,Dublin,2018-03-02 23:20:24,ST. JAMES HOSPITAL (CENTRAL),81,"{'lat': 53.339983, 'lng': -6.295594}",CLOSED,02-03-2018 23:29:02
+Parnell Street,15,5,False,20,False,Dublin,2018-03-02 23:25:56,PARNELL STREET,31,"{'lat': 53.350929, 'lng': -6.265125}",CLOSED,02-03-2018 23:29:02
+Frederick Street South,30,0,True,30,False,Dublin,2018-03-02 23:27:07,FREDERICK STREET SOUTH,98,"{'lat': 53.341515, 'lng': -6.2568529999999996}",CLOSED,02-03-2018 23:29:02
+Fownes Street Upper,14,16,False,30,False,Dublin,2018-03-02 23:25:34,FOWNES STREET UPPER,14,"{'lat': 53.344603, 'lng': -6.263371}",CLOSED,02-03-2018 23:29:02
+Clarendon Row,25,6,False,31,False,Dublin,2018-03-02 23:23:07,CLARENDON ROW,1,"{'lat': 53.340927, 'lng': -6.262501}",CLOSED,02-03-2018 23:29:02
+Custom House,0,30,True,30,False,Dublin,2018-03-02 23:26:24,CUSTOM HOUSE,23,"{'lat': 53.348279, 'lng': -6.254662}",CLOSED,02-03-2018 23:29:02
+Hanover Quay,29,11,True,40,False,Dublin,2018-03-02 23:18:29,HANOVER QUAY,68,"{'lat': 53.344115, 'lng': -6.237153}",CLOSED,02-03-2018 23:29:02
+Oliver Bond Street,2,28,False,30,False,Dublin,2018-03-02 23:26:53,OLIVER BOND STREET,74,"{'lat': 53.343893, 'lng': -6.280531}",CLOSED,02-03-2018 23:29:02
+Collins Barracks Museum,26,12,True,38,False,Dublin,2018-03-02 23:18:37,COLLINS BARRACKS MUSEUM,87,"{'lat': 53.347477, 'lng': -6.28525}",CLOSED,02-03-2018 23:29:02
+Brookfield Road,1,29,False,30,False,Dublin,2018-03-02 23:23:53,BROOKFIELD ROAD,84,"{'lat': 53.339005, 'lng': -6.300217}",CLOSED,02-03-2018 23:29:02
+Benson Street,31,9,False,40,False,Dublin,2018-03-02 23:27:24,BENSON STREET,90,"{'lat': 53.344153, 'lng': -6.233451}",CLOSED,02-03-2018 23:29:02
+Earlsfort Terrace,26,4,False,30,False,Dublin,2018-03-02 23:27:14,EARLSFORT TERRACE,11,"{'lat': 53.334019, 'lng': -6.258371}",CLOSED,02-03-2018 23:29:02
+Golden Lane,10,10,False,20,False,Dublin,2018-03-02 23:22:42,GOLDEN LANE,17,"{'lat': 53.340803, 'lng': -6.267732}",CLOSED,02-03-2018 23:29:02
+Deverell Place,2,28,False,30,False,Dublin,2018-03-02 23:24:40,DEVERELL PLACE,45,"{'lat': 53.351464, 'lng': -6.255265}",CLOSED,02-03-2018 23:29:02
+John Street West,22,9,False,31,False,Dublin,2018-03-02 23:19:22,JOHN STREET WEST,72,"{'lat': 53.343105, 'lng': -6.277167}",CLOSED,02-03-2018 23:29:02
+Fenian Street,15,20,False,35,False,Dublin,2018-03-02 23:24:48,FENIAN STREET,63,"{'lat': 53.341428, 'lng': -6.24672}",CLOSED,02-03-2018 23:29:02
+South Dock Road,2,28,False,30,False,Dublin,2018-03-02 23:23:05,SOUTH DOCK ROAD,91,"{'lat': 53.341833, 'lng': -6.231291}",CLOSED,02-03-2018 23:29:02
+City Quay,12,18,False,30,False,Dublin,2018-03-02 23:20:42,CITY QUAY,99,"{'lat': 53.346637, 'lng': -6.246154}",CLOSED,02-03-2018 23:29:02
+Exchequer Street,17,7,False,24,False,Dublin,2018-03-02 23:26:30,EXCHEQUER STREET,9,"{'lat': 53.343034, 'lng': -6.263578}",CLOSED,02-03-2018 23:29:02
+The Point,22,18,True,40,False,Dublin,2018-03-02 23:20:01,THE POINT,67,"{'lat': 53.346867, 'lng': -6.230852}",CLOSED,02-03-2018 23:29:02
+Hatch Street,35,1,False,36,False,Dublin,2018-03-02 23:19:46,HATCH STREET,55,"{'lat': 53.33403, 'lng': -6.260714}",CLOSED,02-03-2018 23:29:02
+Lime Street,35,5,False,40,False,Dublin,2018-03-02 23:27:06,LIME STREET,62,"{'lat': 53.346026, 'lng': -6.243576}",CLOSED,02-03-2018 23:29:02
+Charlemont Street,2,38,False,40,False,Dublin,2018-03-02 23:27:22,CHARLEMONT PLACE,5,"{'lat': 53.330662, 'lng': -6.260177}",CLOSED,02-03-2018 23:29:02
+Kilmainham Gaol,12,28,True,40,False,Dublin,2018-03-02 23:24:49,KILMAINHAM GAOL,97,"{'lat': 53.342113, 'lng': -6.310015}",CLOSED,02-03-2018 23:29:02
+Hardwicke Place,21,4,True,25,False,Dublin,2018-03-02 23:22:51,HARDWICKE PLACE,61,"{'lat': 53.357043, 'lng': -6.263232}",CLOSED,02-03-2018 23:29:02
+Wolfe Tone Street,29,0,False,29,False,Dublin,2018-03-02 23:24:19,WOLFE TONE STREET,77,"{'lat': 53.348875, 'lng': -6.267459}",CLOSED,02-03-2018 23:29:02
+Francis Street,12,18,True,30,False,Dublin,2018-03-02 23:24:16,FRANCIS STREET,73,"{'lat': 53.342081, 'lng': -6.275233}",CLOSED,02-03-2018 23:29:02
+Greek Street,18,2,False,20,False,Dublin,2018-03-02 23:23:55,GREEK STREET,4,"{'lat': 53.346874, 'lng': -6.272976}",CLOSED,02-03-2018 23:29:02
+Guild Street,21,19,False,40,False,Dublin,2018-03-02 23:26:47,GUILD STREET,49,"{'lat': 53.347932, 'lng': -6.240928}",CLOSED,02-03-2018 23:29:02
+Herbert Place,19,11,False,30,False,Dublin,2018-03-02 23:22:02,HERBERT PLACE,19,"{'lat': 53.334432, 'lng': -6.245575}",CLOSED,02-03-2018 23:29:02
+High Street,9,20,True,29,False,Dublin,2018-03-02 23:25:31,HIGH STREET,7,"{'lat': 53.343565, 'lng': -6.275071}",CLOSED,02-03-2018 23:29:02
+North Circular Road,17,13,True,30,False,Dublin,2018-03-02 23:27:52,NORTH CIRCULAR ROAD,60,"{'lat': 53.359624, 'lng': -6.260348}",CLOSED,02-03-2018 23:29:02
+Western Way,40,0,False,40,False,Dublin,2018-03-02 23:23:33,WESTERN WAY,102,"{'lat': 53.354929, 'lng': -6.269425}",CLOSED,02-03-2018 23:29:02
+Talbot Street,0,40,False,40,False,Dublin,2018-03-02 23:19:57,TALBOT STREET,38,"{'lat': 53.350974, 'lng': -6.25294}",CLOSED,02-03-2018 23:29:02
+Newman House,32,8,False,40,False,Dublin,2018-03-02 23:22:25,NEWMAN HOUSE,53,"{'lat': 53.337132, 'lng': -6.26059}",CLOSED,02-03-2018 23:29:02
+Sir Patrick's Dun,29,11,True,40,False,Dublin,2018-03-02 23:21:04,SIR PATRICK DUN'S,58,"{'lat': 53.339218, 'lng': -6.240642}",CLOSED,02-03-2018 23:29:02
+New Central Bank,31,9,False,40,False,Dublin,2018-03-02 23:27:56,NEW CENTRAL BANK,66,"{'lat': 53.347122, 'lng': -6.234749}",CLOSED,02-03-2018 23:29:02
+King Street North,23,7,False,30,False,Dublin,2018-03-02 23:27:17,KING STREET NORTH,101,"{'lat': 53.350291, 'lng': -6.273507}",CLOSED,02-03-2018 23:29:02
+Herbert Street,38,2,False,40,False,Dublin,2018-03-02 23:26:20,HERBERT STREET,47,"{'lat': 53.335742, 'lng': -6.24551}",CLOSED,02-03-2018 23:29:02
+Custom House Quay,22,8,False,30,False,Dublin,2018-03-02 23:23:21,CUSTOM HOUSE QUAY,8,"{'lat': 53.347884, 'lng': -6.248048}",CLOSED,02-03-2018 23:29:02
+Molesworth Street,18,2,False,20,False,Dublin,2018-03-02 23:28:06,MOLESWORTH STREET,27,"{'lat': 53.341288, 'lng': -6.258117}",CLOSED,02-03-2018 23:29:02
+Georges Quay,0,20,False,20,False,Dublin,2018-03-02 23:23:31,GEORGES QUAY,16,"{'lat': 53.347508, 'lng': -6.252192}",CLOSED,02-03-2018 23:29:02
+Kilmainham Lane,27,3,False,30,False,Dublin,2018-03-02 23:19:36,KILMAINHAM LANE,96,"{'lat': 53.341805, 'lng': -6.305085}",CLOSED,02-03-2018 23:29:02
+Mount Brown,2,20,False,22,False,Dublin,2018-03-02 23:19:24,MOUNT BROWN,82,"{'lat': 53.341645, 'lng': -6.29719}",CLOSED,02-03-2018 23:29:02
+Market Street South,13,25,False,38,False,Dublin,2018-03-02 23:19:55,MARKET STREET SOUTH,76,"{'lat': 53.342296, 'lng': -6.287661}",CLOSED,02-03-2018 23:29:02
+Kevin Street,31,9,True,40,False,Dublin,2018-03-02 23:22:12,KEVIN STREET,71,"{'lat': 53.337757, 'lng': -6.267699}",CLOSED,02-03-2018 23:29:02
+Eccles Street East,18,9,False,27,False,Dublin,2018-03-02 23:21:42,ECCLES STREET EAST,79,"{'lat': 53.358115, 'lng': -6.265601}",CLOSED,02-03-2018 23:29:02
+Grand Canal Dock,23,17,False,40,False,Dublin,2018-03-02 23:23:52,GRAND CANAL DOCK,69,"{'lat': 53.342638, 'lng': -6.238695}",CLOSED,02-03-2018 23:29:02
+Merrion Square East,24,5,False,30,False,Dublin,2018-03-02 23:20:38,MERRION SQUARE EAST,25,"{'lat': 53.339434, 'lng': -6.246548}",CLOSED,02-03-2018 23:29:02
+York Street West,38,2,False,40,False,Dublin,2018-03-02 23:23:02,YORK STREET WEST,51,"{'lat': 53.339334, 'lng': -6.264699}",CLOSED,02-03-2018 23:29:02
+St. Stephen's Green South,21,9,True,30,False,Dublin,2018-03-02 23:26:54,ST. STEPHEN'S GREEN SOUTH,37,"{'lat': 53.337494, 'lng': -6.26199}",CLOSED,02-03-2018 23:29:02
+Denmark Street Great,18,2,False,20,False,Dublin,2018-03-02 23:20:35,DENMARK STREET GREAT,59,"{'lat': 53.35561, 'lng': -6.261397}",CLOSED,02-03-2018 23:29:02
+Royal Hospital,23,17,True,40,False,Dublin,2018-03-02 23:28:01,ROYAL HOSPITAL,95,"{'lat': 53.343897, 'lng': -6.29706}",CLOSED,02-03-2018 23:29:02
+Heuston Station (Car Park),21,19,False,40,False,Dublin,2018-03-02 23:26:00,HEUSTON STATION (CAR PARK),94,"{'lat': 53.346985, 'lng': -6.297804}",CLOSED,02-03-2018 23:29:02
+St. Stephen's Green East,33,7,True,40,False,Dublin,2018-03-02 23:23:40,ST. STEPHEN'S GREEN EAST,36,"{'lat': 53.337824, 'lng': -6.256035}",CLOSED,02-03-2018 23:29:02
+Heuston Station (Central),0,40,False,40,False,Dublin,2018-03-02 23:27:52,HEUSTON STATION (CENTRAL),93,"{'lat': 53.346603, 'lng': -6.296924}",CLOSED,02-03-2018 23:29:02
+Townsend Street,8,12,False,20,False,Dublin,2018-03-02 23:24:29,TOWNSEND STREET,22,"{'lat': 53.345922, 'lng': -6.254614}",CLOSED,02-03-2018 23:29:02
+Eccles Street,3,17,False,20,False,Dublin,2018-03-02 23:25:09,ECCLES STREET,12,"{'lat': 53.359246, 'lng': -6.269779}",CLOSED,02-03-2018 23:29:02
+Portobello Harbour,17,13,False,30,False,Dublin,2018-03-02 23:19:33,PORTOBELLO HARBOUR,34,"{'lat': 53.330362, 'lng': -6.265163}",CLOSED,02-03-2018 23:29:02
+Mater Hospital,7,33,False,40,False,Dublin,2018-03-02 23:25:49,MATER HOSPITAL,78,"{'lat': 53.359967, 'lng': -6.264828}",CLOSED,02-03-2018 23:29:02
+Blessington Street,14,6,True,20,False,Dublin,2018-03-02 23:25:53,BLESSINGTON STREET,2,"{'lat': 53.356769, 'lng': -6.26814}",CLOSED,02-03-2018 23:29:02
+James Street,8,32,True,40,False,Dublin,2018-03-02 23:27:17,JAMES STREET,75,"{'lat': 53.343456, 'lng': -6.287409}",CLOSED,02-03-2018 23:29:02
+Merrion Square West,13,7,True,20,False,Dublin,2018-03-02 23:20:41,MERRION SQUARE WEST,26,"{'lat': 53.339764, 'lng': -6.251988}",CLOSED,02-03-2018 23:29:02
+Convention Centre,36,4,True,40,False,Dublin,2018-03-02 23:28:15,CONVENTION CENTRE,65,"{'lat': 53.34744, 'lng': -6.238523}",CLOSED,02-03-2018 23:29:02
+Hardwicke Street,13,3,False,16,False,Dublin,2018-03-02 23:24:04,HARDWICKE STREET,15,"{'lat': 53.355473, 'lng': -6.264423}",CLOSED,02-03-2018 23:29:02
+Parkgate Street,8,30,True,38,False,Dublin,2018-03-02 23:25:38,PARKGATE STREET,86,"{'lat': 53.347972, 'lng': -6.291804}",CLOSED,02-03-2018 23:29:02
+Smithfield,26,4,False,30,False,Dublin,2018-03-02 23:20:31,SMITHFIELD,35,"{'lat': 53.347692, 'lng': -6.278214}",CLOSED,02-03-2018 23:29:02
+Dame Street,13,3,True,16,False,Dublin,2018-03-02 23:21:51,DAME STREET,10,"{'lat': 53.344007, 'lng': -6.266802}",CLOSED,02-03-2018 23:29:02
+Heuston Bridge (South),5,20,False,25,False,Dublin,2018-03-02 23:24:31,HEUSTON BRIDGE (SOUTH),100,"{'lat': 53.347106, 'lng': -6.292041}",CLOSED,02-03-2018 23:29:02
+Cathal Brugha Street,4,15,False,20,False,Dublin,2018-03-02 23:26:29,CATHAL BRUGHA STREET,24,"{'lat': 53.352149, 'lng': -6.260533}",CLOSED,02-03-2018 23:29:02
+Sandwith Street,31,9,True,40,False,Dublin,2018-03-02 23:27:55,SANDWITH STREET,64,"{'lat': 53.345203, 'lng': -6.247163}",CLOSED,02-03-2018 23:29:02
+Rothe Abbey,9,26,True,35,False,Dublin,2018-03-02 23:23:04,ROTHE ABBEY,85,"{'lat': 53.338776, 'lng': -6.30395}",CLOSED,02-03-2018 23:29:02
+Princes Street / O'Connell Street,8,15,True,23,False,Dublin,2018-03-02 23:21:40,PRINCES STREET / O'CONNELL STREET,33,"{'lat': 53.349013, 'lng': -6.260311}",CLOSED,02-03-2018 23:29:02
+Upper Sherrard Street,5,25,False,30,False,Dublin,2018-03-02 23:24:37,UPPER SHERRARD STREET,44,"{'lat': 53.358437, 'lng': -6.260641}",CLOSED,02-03-2018 23:29:02
+Fitzwilliam Square East,35,5,True,40,False,Dublin,2018-03-02 23:20:56,FITZWILLIAM SQUARE EAST,89,"{'lat': 53.335211, 'lng': -6.2509}",CLOSED,02-03-2018 23:29:02
+Grattan Street,21,2,False,23,False,Dublin,2018-03-02 23:19:08,GRATTAN STREET,57,"{'lat': 53.339629, 'lng': -6.243778}",CLOSED,02-03-2018 23:29:02
+St James Hospital (Luas),11,29,False,40,False,Dublin,2018-03-02 23:28:27,ST JAMES HOSPITAL (LUAS),80,"{'lat': 53.341359, 'lng': -6.292951}",CLOSED,02-03-2018 23:29:02
+Harcourt Terrace,16,4,False,20,False,Dublin,2018-03-02 23:20:51,HARCOURT TERRACE,41,"{'lat': 53.332763, 'lng': -6.257942}",CLOSED,02-03-2018 23:29:02
+Bolton Street,19,1,False,20,False,Dublin,2018-03-02 23:23:06,BOLTON STREET,3,"{'lat': 53.351182, 'lng': -6.269859}",CLOSED,02-03-2018 23:29:02
+Strand Street Great,33,2,True,35,False,Dublin,2018-03-02 23:18:55,STRAND STREET GREAT,46,"{'lat': 53.347082, 'lng': -6.2641919999999995}",CLOSED,02-03-2018 23:29:02
+Jervis Street,19,2,True,21,False,Dublin,2018-03-02 23:26:58,JERVIS STREET,40,"{'lat': 53.3483, 'lng': -6.2666509999999995}",CLOSED,02-03-2018 23:29:02
+Ormond Quay Upper,29,0,True,29,False,Dublin,2018-03-02 23:18:52,ORMOND QUAY UPPER,29,"{'lat': 53.346057, 'lng': -6.268001}",CLOSED,02-03-2018 23:29:02
+Barrow Street,16,24,True,40,False,Dublin,2018-03-02 23:22:23,BARROW STREET,70,"{'lat': 53.341655, 'lng': -6.236198}",CLOSED,02-03-2018 23:29:02
+Mountjoy Square West,12,18,False,30,False,Dublin,2018-03-02 23:20:30,MOUNTJOY SQUARE WEST,28,"{'lat': 53.356299, 'lng': -6.258586}",CLOSED,02-03-2018 23:29:02
+Wilton Terrace,5,15,True,20,False,Dublin,2018-03-02 23:25:51,WILTON TERRACE,39,"{'lat': 53.332383, 'lng': -6.252717}",CLOSED,02-03-2018 23:29:02
+Emmet Road,22,18,False,40,False,Dublin,2018-03-02 23:18:58,EMMET ROAD,83,"{'lat': 53.340714, 'lng': -6.308191}",CLOSED,02-03-2018 23:29:02
+Heuston Bridge (North),23,17,False,40,False,Dublin,2018-03-02 23:28:08,HEUSTON BRIDGE (NORTH),92,"{'lat': 53.347802, 'lng': -6.292432}",CLOSED,02-03-2018 23:29:02
+Leinster Street South,9,21,False,30,False,Dublin,2018-03-02 23:23:26,LEINSTER STREET SOUTH,21,"{'lat': 53.34218, 'lng': -6.254485}",CLOSED,02-03-2018 23:29:02
+Blackhall Place,14,16,False,30,False,Dublin,2018-03-02 23:24:27,BLACKHALL PLACE,88,"{'lat': 53.3488, 'lng': -6.281637}",CLOSED,02-03-2018 23:29:02
+address,available_bike_stands,available_bikes,banking,bike_stands,bonus,contract_name,last_update,name,number,position,status,scrape_datetime
+Smithfield North,14,16,True,30,False,Dublin,2018-03-02 23:40:28,SMITHFIELD NORTH,42,"{'lat': 53.349562, 'lng': -6.278198}",CLOSED,02-03-2018 23:45:48
+Parnell Square North,18,2,True,20,False,Dublin,2018-03-02 23:40:12,PARNELL SQUARE NORTH,30,"{'lat': 53.353462, 'lng': -6.265305}",CLOSED,02-03-2018 23:45:48
+Clonmel Street,30,3,False,33,False,Dublin,2018-03-02 23:43:59,CLONMEL STREET,54,"{'lat': 53.336021, 'lng': -6.26298}",CLOSED,02-03-2018 23:45:48
+Mount Street Lower,32,8,False,40,False,Dublin,2018-03-02 23:38:34,MOUNT STREET LOWER,56,"{'lat': 53.33796, 'lng': -6.24153}",CLOSED,02-03-2018 23:45:48
+Christchurch Place,19,1,False,20,False,Dublin,2018-03-02 23:41:22,CHRISTCHURCH PLACE,6,"{'lat': 53.343368, 'lng': -6.27012}",CLOSED,02-03-2018 23:45:48
+Grantham Street,7,23,True,30,False,Dublin,2018-03-02 23:35:48,GRANTHAM STREET,18,"{'lat': 53.334123, 'lng': -6.265436}",CLOSED,02-03-2018 23:45:48
+Pearse Street,23,7,True,30,False,Dublin,2018-03-02 23:42:51,PEARSE STREET,32,"{'lat': 53.344304, 'lng': -6.250427}",CLOSED,02-03-2018 23:45:48
+York Street East,28,4,False,32,False,Dublin,2018-03-02 23:38:45,YORK STREET EAST,52,"{'lat': 53.338755, 'lng': -6.262003}",CLOSED,02-03-2018 23:45:48
+Excise Walk,27,13,False,40,False,Dublin,2018-03-02 23:41:09,EXCISE WALK,48,"{'lat': 53.347777, 'lng': -6.244239}",CLOSED,02-03-2018 23:45:48
+Fitzwilliam Square West,27,3,False,30,False,Dublin,2018-03-02 23:42:28,FITZWILLIAM SQUARE WEST,13,"{'lat': 53.336073999999996, 'lng': -6.252825}",CLOSED,02-03-2018 23:45:48
+Portobello Road,3,27,True,30,False,Dublin,2018-03-02 23:44:39,PORTOBELLO ROAD,43,"{'lat': 53.330091, 'lng': -6.268044}",CLOSED,02-03-2018 23:45:48
+St. James Hospital (Central),18,22,False,40,False,Dublin,2018-03-02 23:40:41,ST. JAMES HOSPITAL (CENTRAL),81,"{'lat': 53.339983, 'lng': -6.295594}",CLOSED,02-03-2018 23:45:48
+Parnell Street,15,5,False,20,False,Dublin,2018-03-02 23:36:09,PARNELL STREET,31,"{'lat': 53.350929, 'lng': -6.265125}",CLOSED,02-03-2018 23:45:48
+Frederick Street South,30,0,True,30,False,Dublin,2018-03-02 23:37:20,FREDERICK STREET SOUTH,98,"{'lat': 53.341515, 'lng': -6.2568529999999996}",CLOSED,02-03-2018 23:45:48
+Fownes Street Upper,14,16,False,30,False,Dublin,2018-03-02 23:35:41,FOWNES STREET UPPER,14,"{'lat': 53.344603, 'lng': -6.263371}",CLOSED,02-03-2018 23:45:48
+Clarendon Row,25,6,False,31,False,Dublin,2018-03-02 23:43:33,CLARENDON ROW,1,"{'lat': 53.340927, 'lng': -6.262501}",CLOSED,02-03-2018 23:45:48
+Custom House,0,30,True,30,False,Dublin,2018-03-02 23:36:32,CUSTOM HOUSE,23,"{'lat': 53.348279, 'lng': -6.254662}",CLOSED,02-03-2018 23:45:48
+Hanover Quay,29,11,True,40,False,Dublin,2018-03-02 23:38:56,HANOVER QUAY,68,"{'lat': 53.344115, 'lng': -6.237153}",CLOSED,02-03-2018 23:45:48
+Oliver Bond Street,2,28,False,30,False,Dublin,2018-03-02 23:36:57,OLIVER BOND STREET,74,"{'lat': 53.343893, 'lng': -6.280531}",CLOSED,02-03-2018 23:45:48
+Collins Barracks Museum,26,12,True,38,False,Dublin,2018-03-02 23:38:46,COLLINS BARRACKS MUSEUM,87,"{'lat': 53.347477, 'lng': -6.28525}",CLOSED,02-03-2018 23:45:48
+Brookfield Road,1,29,False,30,False,Dublin,2018-03-02 23:44:10,BROOKFIELD ROAD,84,"{'lat': 53.339005, 'lng': -6.300217}",CLOSED,02-03-2018 23:45:48
+Benson Street,31,9,False,40,False,Dublin,2018-03-02 23:37:32,BENSON STREET,90,"{'lat': 53.344153, 'lng': -6.233451}",CLOSED,02-03-2018 23:45:48
+Earlsfort Terrace,26,4,False,30,False,Dublin,2018-03-02 23:37:23,EARLSFORT TERRACE,11,"{'lat': 53.334019, 'lng': -6.258371}",CLOSED,02-03-2018 23:45:48
+Golden Lane,10,10,False,20,False,Dublin,2018-03-02 23:42:51,GOLDEN LANE,17,"{'lat': 53.340803, 'lng': -6.267732}",CLOSED,02-03-2018 23:45:48
+Deverell Place,2,28,False,30,False,Dublin,2018-03-02 23:45:07,DEVERELL PLACE,45,"{'lat': 53.351464, 'lng': -6.255265}",CLOSED,02-03-2018 23:45:48
+John Street West,22,9,False,31,False,Dublin,2018-03-02 23:39:48,JOHN STREET WEST,72,"{'lat': 53.343105, 'lng': -6.277167}",CLOSED,02-03-2018 23:45:48
+Fenian Street,15,20,False,35,False,Dublin,2018-03-02 23:44:57,FENIAN STREET,63,"{'lat': 53.341428, 'lng': -6.24672}",CLOSED,02-03-2018 23:45:48
+South Dock Road,2,28,False,30,False,Dublin,2018-03-02 23:43:20,SOUTH DOCK ROAD,91,"{'lat': 53.341833, 'lng': -6.231291}",CLOSED,02-03-2018 23:45:48
+City Quay,12,18,False,30,False,Dublin,2018-03-02 23:40:50,CITY QUAY,99,"{'lat': 53.346637, 'lng': -6.246154}",CLOSED,02-03-2018 23:45:48
+Exchequer Street,17,7,False,24,False,Dublin,2018-03-02 23:36:35,EXCHEQUER STREET,9,"{'lat': 53.343034, 'lng': -6.263578}",CLOSED,02-03-2018 23:45:48
+The Point,22,18,True,40,False,Dublin,2018-03-02 23:40:10,THE POINT,67,"{'lat': 53.346867, 'lng': -6.230852}",CLOSED,02-03-2018 23:45:48
+Hatch Street,35,1,False,36,False,Dublin,2018-03-02 23:40:01,HATCH STREET,55,"{'lat': 53.33403, 'lng': -6.260714}",CLOSED,02-03-2018 23:45:48
+Lime Street,35,5,False,40,False,Dublin,2018-03-02 23:37:20,LIME STREET,62,"{'lat': 53.346026, 'lng': -6.243576}",CLOSED,02-03-2018 23:45:48
+Charlemont Street,2,38,False,40,False,Dublin,2018-03-02 23:37:26,CHARLEMONT PLACE,5,"{'lat': 53.330662, 'lng': -6.260177}",CLOSED,02-03-2018 23:45:48
+Kilmainham Gaol,12,28,True,40,False,Dublin,2018-03-02 23:45:16,KILMAINHAM GAOL,97,"{'lat': 53.342113, 'lng': -6.310015}",CLOSED,02-03-2018 23:45:48
+Hardwicke Place,21,4,True,25,False,Dublin,2018-03-02 23:42:59,HARDWICKE PLACE,61,"{'lat': 53.357043, 'lng': -6.263232}",CLOSED,02-03-2018 23:45:48
+Wolfe Tone Street,29,0,False,29,False,Dublin,2018-03-02 23:44:46,WOLFE TONE STREET,77,"{'lat': 53.348875, 'lng': -6.267459}",CLOSED,02-03-2018 23:45:48
+Francis Street,12,18,True,30,False,Dublin,2018-03-02 23:44:41,FRANCIS STREET,73,"{'lat': 53.342081, 'lng': -6.275233}",CLOSED,02-03-2018 23:45:48
+Greek Street,18,2,False,20,False,Dublin,2018-03-02 23:44:03,GREEK STREET,4,"{'lat': 53.346874, 'lng': -6.272976}",CLOSED,02-03-2018 23:45:48
+Guild Street,21,19,False,40,False,Dublin,2018-03-02 23:36:51,GUILD STREET,49,"{'lat': 53.347932, 'lng': -6.240928}",CLOSED,02-03-2018 23:45:48
+Herbert Place,19,11,False,30,False,Dublin,2018-03-02 23:42:11,HERBERT PLACE,19,"{'lat': 53.334432, 'lng': -6.245575}",CLOSED,02-03-2018 23:45:48
+High Street,9,20,True,29,False,Dublin,2018-03-02 23:35:38,HIGH STREET,7,"{'lat': 53.343565, 'lng': -6.275071}",CLOSED,02-03-2018 23:45:48
+North Circular Road,17,13,True,30,False,Dublin,2018-03-02 23:38:05,NORTH CIRCULAR ROAD,60,"{'lat': 53.359624, 'lng': -6.260348}",CLOSED,02-03-2018 23:45:48
+Western Way,40,0,False,40,False,Dublin,2018-03-02 23:43:41,WESTERN WAY,102,"{'lat': 53.354929, 'lng': -6.269425}",CLOSED,02-03-2018 23:45:48
+Talbot Street,0,40,False,40,False,Dublin,2018-03-02 23:40:23,TALBOT STREET,38,"{'lat': 53.350974, 'lng': -6.25294}",CLOSED,02-03-2018 23:45:48
+Newman House,32,8,False,40,False,Dublin,2018-03-02 23:42:34,NEWMAN HOUSE,53,"{'lat': 53.337132, 'lng': -6.26059}",CLOSED,02-03-2018 23:45:48
+Sir Patrick's Dun,29,11,True,40,False,Dublin,2018-03-02 23:41:13,SIR PATRICK DUN'S,58,"{'lat': 53.339218, 'lng': -6.240642}",CLOSED,02-03-2018 23:45:48
+New Central Bank,31,9,False,40,False,Dublin,2018-03-02 23:38:00,NEW CENTRAL BANK,66,"{'lat': 53.347122, 'lng': -6.234749}",CLOSED,02-03-2018 23:45:48
+King Street North,23,7,False,30,False,Dublin,2018-03-02 23:37:25,KING STREET NORTH,101,"{'lat': 53.350291, 'lng': -6.273507}",CLOSED,02-03-2018 23:45:48
+Herbert Street,38,2,False,40,False,Dublin,2018-03-02 23:36:25,HERBERT STREET,47,"{'lat': 53.335742, 'lng': -6.24551}",CLOSED,02-03-2018 23:45:48
+Custom House Quay,22,8,False,30,False,Dublin,2018-03-02 23:43:47,CUSTOM HOUSE QUAY,8,"{'lat': 53.347884, 'lng': -6.248048}",CLOSED,02-03-2018 23:45:48
+Molesworth Street,18,2,False,20,False,Dublin,2018-03-02 23:38:19,MOLESWORTH STREET,27,"{'lat': 53.341288, 'lng': -6.258117}",CLOSED,02-03-2018 23:45:48
+Georges Quay,0,20,False,20,False,Dublin,2018-03-02 23:43:40,GEORGES QUAY,16,"{'lat': 53.347508, 'lng': -6.252192}",CLOSED,02-03-2018 23:45:48
+Kilmainham Lane,27,3,False,30,False,Dublin,2018-03-02 23:39:45,KILMAINHAM LANE,96,"{'lat': 53.341805, 'lng': -6.305085}",CLOSED,02-03-2018 23:45:48
+Mount Brown,2,20,False,22,False,Dublin,2018-03-02 23:39:49,MOUNT BROWN,82,"{'lat': 53.341645, 'lng': -6.29719}",CLOSED,02-03-2018 23:45:48
+Market Street South,13,25,False,38,False,Dublin,2018-03-02 23:40:04,MARKET STREET SOUTH,76,"{'lat': 53.342296, 'lng': -6.287661}",CLOSED,02-03-2018 23:45:48
+Kevin Street,31,9,True,40,False,Dublin,2018-03-02 23:42:29,KEVIN STREET,71,"{'lat': 53.337757, 'lng': -6.267699}",CLOSED,02-03-2018 23:45:48
+Eccles Street East,18,9,False,27,False,Dublin,2018-03-02 23:42:08,ECCLES STREET EAST,79,"{'lat': 53.358115, 'lng': -6.265601}",CLOSED,02-03-2018 23:45:48
+Grand Canal Dock,23,17,False,40,False,Dublin,2018-03-02 23:44:01,GRAND CANAL DOCK,69,"{'lat': 53.342638, 'lng': -6.238695}",CLOSED,02-03-2018 23:45:48
+Merrion Square East,24,5,False,30,False,Dublin,2018-03-02 23:40:54,MERRION SQUARE EAST,25,"{'lat': 53.339434, 'lng': -6.246548}",CLOSED,02-03-2018 23:45:48
+York Street West,38,2,False,40,False,Dublin,2018-03-02 23:43:10,YORK STREET WEST,51,"{'lat': 53.339334, 'lng': -6.264699}",CLOSED,02-03-2018 23:45:48
+St. Stephen's Green South,21,9,True,30,False,Dublin,2018-03-02 23:36:58,ST. STEPHEN'S GREEN SOUTH,37,"{'lat': 53.337494, 'lng': -6.26199}",CLOSED,02-03-2018 23:45:48
+Denmark Street Great,18,2,False,20,False,Dublin,2018-03-02 23:40:42,DENMARK STREET GREAT,59,"{'lat': 53.35561, 'lng': -6.261397}",CLOSED,02-03-2018 23:45:48
+Royal Hospital,23,17,True,40,False,Dublin,2018-03-02 23:38:09,ROYAL HOSPITAL,95,"{'lat': 53.343897, 'lng': -6.29706}",CLOSED,02-03-2018 23:45:48
+Heuston Station (Car Park),21,19,False,40,False,Dublin,2018-03-02 23:36:05,HEUSTON STATION (CAR PARK),94,"{'lat': 53.346985, 'lng': -6.297804}",CLOSED,02-03-2018 23:45:48
+St. Stephen's Green East,33,7,True,40,False,Dublin,2018-03-02 23:43:55,ST. STEPHEN'S GREEN EAST,36,"{'lat': 53.337824, 'lng': -6.256035}",CLOSED,02-03-2018 23:45:48
+Heuston Station (Central),0,40,False,40,False,Dublin,2018-03-02 23:38:00,HEUSTON STATION (CENTRAL),93,"{'lat': 53.346603, 'lng': -6.296924}",CLOSED,02-03-2018 23:45:48
+Townsend Street,8,12,False,20,False,Dublin,2018-03-02 23:44:38,TOWNSEND STREET,22,"{'lat': 53.345922, 'lng': -6.254614}",CLOSED,02-03-2018 23:45:48
+Eccles Street,3,17,False,20,False,Dublin,2018-03-02 23:45:18,ECCLES STREET,12,"{'lat': 53.359246, 'lng': -6.269779}",CLOSED,02-03-2018 23:45:48
+Portobello Harbour,17,13,False,30,False,Dublin,2018-03-02 23:39:42,PORTOBELLO HARBOUR,34,"{'lat': 53.330362, 'lng': -6.265163}",CLOSED,02-03-2018 23:45:48
+Mater Hospital,7,33,False,40,False,Dublin,2018-03-02 23:36:02,MATER HOSPITAL,78,"{'lat': 53.359967, 'lng': -6.264828}",CLOSED,02-03-2018 23:45:48
+Blessington Street,14,6,True,20,False,Dublin,2018-03-02 23:35:57,BLESSINGTON STREET,2,"{'lat': 53.356769, 'lng': -6.26814}",CLOSED,02-03-2018 23:45:48
+James Street,8,32,True,40,False,Dublin,2018-03-02 23:37:25,JAMES STREET,75,"{'lat': 53.343456, 'lng': -6.287409}",CLOSED,02-03-2018 23:45:48
+Merrion Square West,13,7,True,20,False,Dublin,2018-03-02 23:40:46,MERRION SQUARE WEST,26,"{'lat': 53.339764, 'lng': -6.251988}",CLOSED,02-03-2018 23:45:48
+Convention Centre,36,4,True,40,False,Dublin,2018-03-02 23:38:24,CONVENTION CENTRE,65,"{'lat': 53.34744, 'lng': -6.238523}",CLOSED,02-03-2018 23:45:48
+Hardwicke Street,13,3,False,16,False,Dublin,2018-03-02 23:44:20,HARDWICKE STREET,15,"{'lat': 53.355473, 'lng': -6.264423}",CLOSED,02-03-2018 23:45:48
+Parkgate Street,8,30,True,38,False,Dublin,2018-03-02 23:35:43,PARKGATE STREET,86,"{'lat': 53.347972, 'lng': -6.291804}",CLOSED,02-03-2018 23:45:48
+Smithfield,26,4,False,30,False,Dublin,2018-03-02 23:40:47,SMITHFIELD,35,"{'lat': 53.347692, 'lng': -6.278214}",CLOSED,02-03-2018 23:45:48
+Dame Street,13,3,True,16,False,Dublin,2018-03-02 23:41:59,DAME STREET,10,"{'lat': 53.344007, 'lng': -6.266802}",CLOSED,02-03-2018 23:45:48
+Heuston Bridge (South),5,20,False,25,False,Dublin,2018-03-02 23:44:47,HEUSTON BRIDGE (SOUTH),100,"{'lat': 53.347106, 'lng': -6.292041}",CLOSED,02-03-2018 23:45:48
+Cathal Brugha Street,4,15,False,20,False,Dublin,2018-03-02 23:36:34,CATHAL BRUGHA STREET,24,"{'lat': 53.352149, 'lng': -6.260533}",CLOSED,02-03-2018 23:45:48
+Sandwith Street,31,9,True,40,False,Dublin,2018-03-02 23:38:03,SANDWITH STREET,64,"{'lat': 53.345203, 'lng': -6.247163}",CLOSED,02-03-2018 23:45:48
+Rothe Abbey,9,26,True,35,False,Dublin,2018-03-02 23:43:28,ROTHE ABBEY,85,"{'lat': 53.338776, 'lng': -6.30395}",CLOSED,02-03-2018 23:45:48
+Princes Street / O'Connell Street,8,15,True,23,False,Dublin,2018-03-02 23:41:49,PRINCES STREET / O'CONNELL STREET,33,"{'lat': 53.349013, 'lng': -6.260311}",CLOSED,02-03-2018 23:45:48
+Upper Sherrard Street,5,25,False,30,False,Dublin,2018-03-02 23:44:44,UPPER SHERRARD STREET,44,"{'lat': 53.358437, 'lng': -6.260641}",CLOSED,02-03-2018 23:45:48
+Fitzwilliam Square East,35,5,True,40,False,Dublin,2018-03-02 23:41:04,FITZWILLIAM SQUARE EAST,89,"{'lat': 53.335211, 'lng': -6.2509}",CLOSED,02-03-2018 23:45:48
+Grattan Street,21,2,False,23,False,Dublin,2018-03-02 23:39:17,GRATTAN STREET,57,"{'lat': 53.339629, 'lng': -6.243778}",CLOSED,02-03-2018 23:45:48
+St James Hospital (Luas),11,29,False,40,False,Dublin,2018-03-02 23:38:40,ST JAMES HOSPITAL (LUAS),80,"{'lat': 53.341359, 'lng': -6.292951}",CLOSED,02-03-2018 23:45:48
+Harcourt Terrace,16,4,False,20,False,Dublin,2018-03-02 23:41:06,HARCOURT TERRACE,41,"{'lat': 53.332763, 'lng': -6.257942}",CLOSED,02-03-2018 23:45:48
+Bolton Street,19,1,False,20,False,Dublin,2018-03-02 23:44:10,BOLTON STREET,3,"{'lat': 53.351182, 'lng': -6.269859}",CLOSED,02-03-2018 23:45:48
+Strand Street Great,33,2,True,35,False,Dublin,2018-03-02 23:39:04,STRAND STREET GREAT,46,"{'lat': 53.347082, 'lng': -6.2641919999999995}",CLOSED,02-03-2018 23:45:48
+Jervis Street,19,2,True,21,False,Dublin,2018-03-02 23:37:05,JERVIS STREET,40,"{'lat': 53.3483, 'lng': -6.2666509999999995}",CLOSED,02-03-2018 23:45:48
+Ormond Quay Upper,29,0,True,29,False,Dublin,2018-03-02 23:39:19,ORMOND QUAY UPPER,29,"{'lat': 53.346057, 'lng': -6.268001}",CLOSED,02-03-2018 23:45:48
+Barrow Street,16,24,True,40,False,Dublin,2018-03-02 23:42:33,BARROW STREET,70,"{'lat': 53.341655, 'lng': -6.236198}",CLOSED,02-03-2018 23:45:48
+Mountjoy Square West,12,18,False,30,False,Dublin,2018-03-02 23:40:39,MOUNTJOY SQUARE WEST,28,"{'lat': 53.356299, 'lng': -6.258586}",CLOSED,02-03-2018 23:45:48
+Wilton Terrace,5,15,True,20,False,Dublin,2018-03-02 23:35:55,WILTON TERRACE,39,"{'lat': 53.332383, 'lng': -6.252717}",CLOSED,02-03-2018 23:45:48
+Emmet Road,22,18,False,40,False,Dublin,2018-03-02 23:39:06,EMMET ROAD,83,"{'lat': 53.340714, 'lng': -6.308191}",CLOSED,02-03-2018 23:45:48
+Heuston Bridge (North),23,17,False,40,False,Dublin,2018-03-02 23:38:15,HEUSTON BRIDGE (NORTH),92,"{'lat': 53.347802, 'lng': -6.292432}",CLOSED,02-03-2018 23:45:48
+Leinster Street South,9,21,False,30,False,Dublin,2018-03-02 23:43:36,LEINSTER STREET SOUTH,21,"{'lat': 53.34218, 'lng': -6.254485}",CLOSED,02-03-2018 23:45:48
+Blackhall Place,14,16,False,30,False,Dublin,2018-03-02 23:44:53,BLACKHALL PLACE,88,"{'lat': 53.3488, 'lng': -6.281637}",CLOSED,02-03-2018 23:45:48
+address,available_bike_stands,available_bikes,banking,bike_stands,bonus,contract_name,last_update,name,number,position,status,scrape_datetime
+Smithfield North,14,16,True,30,False,Dublin,2018-03-02 23:40:28,SMITHFIELD NORTH,42,"{'lat': 53.349562, 'lng': -6.278198}",CLOSED,02-03-2018 23:46:48
+Parnell Square North,18,2,True,20,False,Dublin,2018-03-02 23:40:12,PARNELL SQUARE NORTH,30,"{'lat': 53.353462, 'lng': -6.265305}",CLOSED,02-03-2018 23:46:48
+Clonmel Street,30,3,False,33,False,Dublin,2018-03-02 23:43:59,CLONMEL STREET,54,"{'lat': 53.336021, 'lng': -6.26298}",CLOSED,02-03-2018 23:46:48
+Mount Street Lower,32,8,False,40,False,Dublin,2018-03-02 23:38:34,MOUNT STREET LOWER,56,"{'lat': 53.33796, 'lng': -6.24153}",CLOSED,02-03-2018 23:46:48
+Christchurch Place,19,1,False,20,False,Dublin,2018-03-02 23:41:22,CHRISTCHURCH PLACE,6,"{'lat': 53.343368, 'lng': -6.27012}",CLOSED,02-03-2018 23:46:48
+Grantham Street,7,23,True,30,False,Dublin,2018-03-02 23:45:56,GRANTHAM STREET,18,"{'lat': 53.334123, 'lng': -6.265436}",CLOSED,02-03-2018 23:46:48
+Pearse Street,23,7,True,30,False,Dublin,2018-03-02 23:42:51,PEARSE STREET,32,"{'lat': 53.344304, 'lng': -6.250427}",CLOSED,02-03-2018 23:46:48
+York Street East,28,4,False,32,False,Dublin,2018-03-02 23:38:45,YORK STREET EAST,52,"{'lat': 53.338755, 'lng': -6.262003}",CLOSED,02-03-2018 23:46:48
+Excise Walk,27,13,False,40,False,Dublin,2018-03-02 23:41:09,EXCISE WALK,48,"{'lat': 53.347777, 'lng': -6.244239}",CLOSED,02-03-2018 23:46:48
+Fitzwilliam Square West,27,3,False,30,False,Dublin,2018-03-02 23:42:28,FITZWILLIAM SQUARE WEST,13,"{'lat': 53.336073999999996, 'lng': -6.252825}",CLOSED,02-03-2018 23:46:48
+Portobello Road,3,27,True,30,False,Dublin,2018-03-02 23:44:39,PORTOBELLO ROAD,43,"{'lat': 53.330091, 'lng': -6.268044}",CLOSED,02-03-2018 23:46:48
+St. James Hospital (Central),18,22,False,40,False,Dublin,2018-03-02 23:40:41,ST. JAMES HOSPITAL (CENTRAL),81,"{'lat': 53.339983, 'lng': -6.295594}",CLOSED,02-03-2018 23:46:48
+Parnell Street,15,5,False,20,False,Dublin,2018-03-02 23:46:21,PARNELL STREET,31,"{'lat': 53.350929, 'lng': -6.265125}",CLOSED,02-03-2018 23:46:48
+Frederick Street South,30,0,True,30,False,Dublin,2018-03-02 23:37:20,FREDERICK STREET SOUTH,98,"{'lat': 53.341515, 'lng': -6.2568529999999996}",CLOSED,02-03-2018 23:46:48
+Fownes Street Upper,14,16,False,30,False,Dublin,2018-03-02 23:45:50,FOWNES STREET UPPER,14,"{'lat': 53.344603, 'lng': -6.263371}",CLOSED,02-03-2018 23:46:48
+Clarendon Row,25,6,False,31,False,Dublin,2018-03-02 23:43:33,CLARENDON ROW,1,"{'lat': 53.340927, 'lng': -6.262501}",CLOSED,02-03-2018 23:46:48
+Custom House,0,30,True,30,False,Dublin,2018-03-02 23:36:32,CUSTOM HOUSE,23,"{'lat': 53.348279, 'lng': -6.254662}",CLOSED,02-03-2018 23:46:48
+Hanover Quay,29,11,True,40,False,Dublin,2018-03-02 23:38:56,HANOVER QUAY,68,"{'lat': 53.344115, 'lng': -6.237153}",CLOSED,02-03-2018 23:46:48
+Oliver Bond Street,2,28,False,30,False,Dublin,2018-03-02 23:36:57,OLIVER BOND STREET,74,"{'lat': 53.343893, 'lng': -6.280531}",CLOSED,02-03-2018 23:46:48
+Collins Barracks Museum,26,12,True,38,False,Dublin,2018-03-02 23:38:46,COLLINS BARRACKS MUSEUM,87,"{'lat': 53.347477, 'lng': -6.28525}",CLOSED,02-03-2018 23:46:48
+Brookfield Road,1,29,False,30,False,Dublin,2018-03-02 23:44:10,BROOKFIELD ROAD,84,"{'lat': 53.339005, 'lng': -6.300217}",CLOSED,02-03-2018 23:46:48
+Benson Street,31,9,False,40,False,Dublin,2018-03-02 23:37:32,BENSON STREET,90,"{'lat': 53.344153, 'lng': -6.233451}",CLOSED,02-03-2018 23:46:48
+Earlsfort Terrace,26,4,False,30,False,Dublin,2018-03-02 23:37:23,EARLSFORT TERRACE,11,"{'lat': 53.334019, 'lng': -6.258371}",CLOSED,02-03-2018 23:46:48
+Golden Lane,10,10,False,20,False,Dublin,2018-03-02 23:42:51,GOLDEN LANE,17,"{'lat': 53.340803, 'lng': -6.267732}",CLOSED,02-03-2018 23:46:48
+Deverell Place,2,28,False,30,False,Dublin,2018-03-02 23:45:07,DEVERELL PLACE,45,"{'lat': 53.351464, 'lng': -6.255265}",CLOSED,02-03-2018 23:46:48
+John Street West,22,9,False,31,False,Dublin,2018-03-02 23:39:48,JOHN STREET WEST,72,"{'lat': 53.343105, 'lng': -6.277167}",CLOSED,02-03-2018 23:46:48
+Fenian Street,15,20,False,35,False,Dublin,2018-03-02 23:44:57,FENIAN STREET,63,"{'lat': 53.341428, 'lng': -6.24672}",CLOSED,02-03-2018 23:46:48
+South Dock Road,2,28,False,30,False,Dublin,2018-03-02 23:43:20,SOUTH DOCK ROAD,91,"{'lat': 53.341833, 'lng': -6.231291}",CLOSED,02-03-2018 23:46:48
+City Quay,12,18,False,30,False,Dublin,2018-03-02 23:40:50,CITY QUAY,99,"{'lat': 53.346637, 'lng': -6.246154}",CLOSED,02-03-2018 23:46:48
+Exchequer Street,17,7,False,24,False,Dublin,2018-03-02 23:36:35,EXCHEQUER STREET,9,"{'lat': 53.343034, 'lng': -6.263578}",CLOSED,02-03-2018 23:46:48
+The Point,22,18,True,40,False,Dublin,2018-03-02 23:40:10,THE POINT,67,"{'lat': 53.346867, 'lng': -6.230852}",CLOSED,02-03-2018 23:46:48
+Hatch Street,35,1,False,36,False,Dublin,2018-03-02 23:40:01,HATCH STREET,55,"{'lat': 53.33403, 'lng': -6.260714}",CLOSED,02-03-2018 23:46:48
+Lime Street,35,5,False,40,False,Dublin,2018-03-02 23:37:20,LIME STREET,62,"{'lat': 53.346026, 'lng': -6.243576}",CLOSED,02-03-2018 23:46:48
+Charlemont Street,2,38,False,40,False,Dublin,2018-03-02 23:37:26,CHARLEMONT PLACE,5,"{'lat': 53.330662, 'lng': -6.260177}",CLOSED,02-03-2018 23:46:48
+Kilmainham Gaol,12,28,True,40,False,Dublin,2018-03-02 23:45:16,KILMAINHAM GAOL,97,"{'lat': 53.342113, 'lng': -6.310015}",CLOSED,02-03-2018 23:46:48
+Hardwicke Place,21,4,True,25,False,Dublin,2018-03-02 23:42:59,HARDWICKE PLACE,61,"{'lat': 53.357043, 'lng': -6.263232}",CLOSED,02-03-2018 23:46:48
+Wolfe Tone Street,29,0,False,29,False,Dublin,2018-03-02 23:44:46,WOLFE TONE STREET,77,"{'lat': 53.348875, 'lng': -6.267459}",CLOSED,02-03-2018 23:46:48
+Francis Street,12,18,True,30,False,Dublin,2018-03-02 23:44:41,FRANCIS STREET,73,"{'lat': 53.342081, 'lng': -6.275233}",CLOSED,02-03-2018 23:46:48
+Greek Street,18,2,False,20,False,Dublin,2018-03-02 23:44:03,GREEK STREET,4,"{'lat': 53.346874, 'lng': -6.272976}",CLOSED,02-03-2018 23:46:48
+Guild Street,21,19,False,40,False,Dublin,2018-03-02 23:36:51,GUILD STREET,49,"{'lat': 53.347932, 'lng': -6.240928}",CLOSED,02-03-2018 23:46:48
+Herbert Place,19,11,False,30,False,Dublin,2018-03-02 23:42:11,HERBERT PLACE,19,"{'lat': 53.334432, 'lng': -6.245575}",CLOSED,02-03-2018 23:46:48
+High Street,9,20,True,29,False,Dublin,2018-03-02 23:45:47,HIGH STREET,7,"{'lat': 53.343565, 'lng': -6.275071}",CLOSED,02-03-2018 23:46:48
+North Circular Road,17,13,True,30,False,Dublin,2018-03-02 23:38:05,NORTH CIRCULAR ROAD,60,"{'lat': 53.359624, 'lng': -6.260348}",CLOSED,02-03-2018 23:46:48
+Western Way,40,0,False,40,False,Dublin,2018-03-02 23:43:41,WESTERN WAY,102,"{'lat': 53.354929, 'lng': -6.269425}",CLOSED,02-03-2018 23:46:48
+Talbot Street,0,40,False,40,False,Dublin,2018-03-02 23:40:23,TALBOT STREET,38,"{'lat': 53.350974, 'lng': -6.25294}",CLOSED,02-03-2018 23:46:48
+Newman House,32,8,False,40,False,Dublin,2018-03-02 23:42:34,NEWMAN HOUSE,53,"{'lat': 53.337132, 'lng': -6.26059}",CLOSED,02-03-2018 23:46:48
+Sir Patrick's Dun,29,11,True,40,False,Dublin,2018-03-02 23:41:13,SIR PATRICK DUN'S,58,"{'lat': 53.339218, 'lng': -6.240642}",CLOSED,02-03-2018 23:46:48
+New Central Bank,31,9,False,40,False,Dublin,2018-03-02 23:38:00,NEW CENTRAL BANK,66,"{'lat': 53.347122, 'lng': -6.234749}",CLOSED,02-03-2018 23:46:48
+King Street North,23,7,False,30,False,Dublin,2018-03-02 23:37:25,KING STREET NORTH,101,"{'lat': 53.350291, 'lng': -6.273507}",CLOSED,02-03-2018 23:46:48
+Herbert Street,38,2,False,40,False,Dublin,2018-03-02 23:46:29,HERBERT STREET,47,"{'lat': 53.335742, 'lng': -6.24551}",CLOSED,02-03-2018 23:46:48
+Custom House Quay,22,8,False,30,False,Dublin,2018-03-02 23:43:47,CUSTOM HOUSE QUAY,8,"{'lat': 53.347884, 'lng': -6.248048}",CLOSED,02-03-2018 23:46:48
+Molesworth Street,18,2,False,20,False,Dublin,2018-03-02 23:38:19,MOLESWORTH STREET,27,"{'lat': 53.341288, 'lng': -6.258117}",CLOSED,02-03-2018 23:46:48
+Georges Quay,0,20,False,20,False,Dublin,2018-03-02 23:43:40,GEORGES QUAY,16,"{'lat': 53.347508, 'lng': -6.252192}",CLOSED,02-03-2018 23:46:48
+Kilmainham Lane,27,3,False,30,False,Dublin,2018-03-02 23:39:45,KILMAINHAM LANE,96,"{'lat': 53.341805, 'lng': -6.305085}",CLOSED,02-03-2018 23:46:48
+Mount Brown,2,20,False,22,False,Dublin,2018-03-02 23:39:49,MOUNT BROWN,82,"{'lat': 53.341645, 'lng': -6.29719}",CLOSED,02-03-2018 23:46:48
+Market Street South,13,25,False,38,False,Dublin,2018-03-02 23:40:04,MARKET STREET SOUTH,76,"{'lat': 53.342296, 'lng': -6.287661}",CLOSED,02-03-2018 23:46:48
+Kevin Street,31,9,True,40,False,Dublin,2018-03-02 23:42:29,KEVIN STREET,71,"{'lat': 53.337757, 'lng': -6.267699}",CLOSED,02-03-2018 23:46:48
+Eccles Street East,18,9,False,27,False,Dublin,2018-03-02 23:42:08,ECCLES STREET EAST,79,"{'lat': 53.358115, 'lng': -6.265601}",CLOSED,02-03-2018 23:46:48
+Grand Canal Dock,23,17,False,40,False,Dublin,2018-03-02 23:44:01,GRAND CANAL DOCK,69,"{'lat': 53.342638, 'lng': -6.238695}",CLOSED,02-03-2018 23:46:48
+Merrion Square East,24,5,False,30,False,Dublin,2018-03-02 23:40:54,MERRION SQUARE EAST,25,"{'lat': 53.339434, 'lng': -6.246548}",CLOSED,02-03-2018 23:46:48
+York Street West,38,2,False,40,False,Dublin,2018-03-02 23:43:10,YORK STREET WEST,51,"{'lat': 53.339334, 'lng': -6.264699}",CLOSED,02-03-2018 23:46:48
+St. Stephen's Green South,21,9,True,30,False,Dublin,2018-03-02 23:36:58,ST. STEPHEN'S GREEN SOUTH,37,"{'lat': 53.337494, 'lng': -6.26199}",CLOSED,02-03-2018 23:46:48
+Denmark Street Great,18,2,False,20,False,Dublin,2018-03-02 23:40:42,DENMARK STREET GREAT,59,"{'lat': 53.35561, 'lng': -6.261397}",CLOSED,02-03-2018 23:46:48
+Royal Hospital,23,17,True,40,False,Dublin,2018-03-02 23:38:09,ROYAL HOSPITAL,95,"{'lat': 53.343897, 'lng': -6.29706}",CLOSED,02-03-2018 23:46:48
+Heuston Station (Car Park),21,19,False,40,False,Dublin,2018-03-02 23:46:09,HEUSTON STATION (CAR PARK),94,"{'lat': 53.346985, 'lng': -6.297804}",CLOSED,02-03-2018 23:46:48
+St. Stephen's Green East,33,7,True,40,False,Dublin,2018-03-02 23:43:55,ST. STEPHEN'S GREEN EAST,36,"{'lat': 53.337824, 'lng': -6.256035}",CLOSED,02-03-2018 23:46:48
+Heuston Station (Central),0,40,False,40,False,Dublin,2018-03-02 23:38:00,HEUSTON STATION (CENTRAL),93,"{'lat': 53.346603, 'lng': -6.296924}",CLOSED,02-03-2018 23:46:48
+Townsend Street,8,12,False,20,False,Dublin,2018-03-02 23:44:38,TOWNSEND STREET,22,"{'lat': 53.345922, 'lng': -6.254614}",CLOSED,02-03-2018 23:46:48
+Eccles Street,3,17,False,20,False,Dublin,2018-03-02 23:45:18,ECCLES STREET,12,"{'lat': 53.359246, 'lng': -6.269779}",CLOSED,02-03-2018 23:46:48
+Portobello Harbour,17,13,False,30,False,Dublin,2018-03-02 23:39:42,PORTOBELLO HARBOUR,34,"{'lat': 53.330362, 'lng': -6.265163}",CLOSED,02-03-2018 23:46:48
+Mater Hospital,7,33,False,40,False,Dublin,2018-03-02 23:46:16,MATER HOSPITAL,78,"{'lat': 53.359967, 'lng': -6.264828}",CLOSED,02-03-2018 23:46:48
+Blessington Street,14,6,True,20,False,Dublin,2018-03-02 23:46:02,BLESSINGTON STREET,2,"{'lat': 53.356769, 'lng': -6.26814}",CLOSED,02-03-2018 23:46:48
+James Street,8,32,True,40,False,Dublin,2018-03-02 23:37:25,JAMES STREET,75,"{'lat': 53.343456, 'lng': -6.287409}",CLOSED,02-03-2018 23:46:48
+Merrion Square West,13,7,True,20,False,Dublin,2018-03-02 23:40:46,MERRION SQUARE WEST,26,"{'lat': 53.339764, 'lng': -6.251988}",CLOSED,02-03-2018 23:46:48
+Convention Centre,36,4,True,40,False,Dublin,2018-03-02 23:38:24,CONVENTION CENTRE,65,"{'lat': 53.34744, 'lng': -6.238523}",CLOSED,02-03-2018 23:46:48
+Hardwicke Street,13,3,False,16,False,Dublin,2018-03-02 23:44:20,HARDWICKE STREET,15,"{'lat': 53.355473, 'lng': -6.264423}",CLOSED,02-03-2018 23:46:48
+Parkgate Street,8,30,True,38,False,Dublin,2018-03-02 23:45:48,PARKGATE STREET,86,"{'lat': 53.347972, 'lng': -6.291804}",CLOSED,02-03-2018 23:46:48
+Smithfield,26,4,False,30,False,Dublin,2018-03-02 23:40:47,SMITHFIELD,35,"{'lat': 53.347692, 'lng': -6.278214}",CLOSED,02-03-2018 23:46:48
+Dame Street,13,3,True,16,False,Dublin,2018-03-02 23:41:59,DAME STREET,10,"{'lat': 53.344007, 'lng': -6.266802}",CLOSED,02-03-2018 23:46:48
+Heuston Bridge (South),5,20,False,25,False,Dublin,2018-03-02 23:44:47,HEUSTON BRIDGE (SOUTH),100,"{'lat': 53.347106, 'lng': -6.292041}",CLOSED,02-03-2018 23:46:48
+Cathal Brugha Street,4,15,False,20,False,Dublin,2018-03-02 23:36:34,CATHAL BRUGHA STREET,24,"{'lat': 53.352149, 'lng': -6.260533}",CLOSED,02-03-2018 23:46:48
+Sandwith Street,31,9,True,40,False,Dublin,2018-03-02 23:38:03,SANDWITH STREET,64,"{'lat': 53.345203, 'lng': -6.247163}",CLOSED,02-03-2018 23:46:48
+Rothe Abbey,9,26,True,35,False,Dublin,2018-03-02 23:43:28,ROTHE ABBEY,85,"{'lat': 53.338776, 'lng': -6.30395}",CLOSED,02-03-2018 23:46:48
+Princes Street / O'Connell Street,8,15,True,23,False,Dublin,2018-03-02 23:41:49,PRINCES STREET / O'CONNELL STREET,33,"{'lat': 53.349013, 'lng': -6.260311}",CLOSED,02-03-2018 23:46:48
+Upper Sherrard Street,5,25,False,30,False,Dublin,2018-03-02 23:44:44,UPPER SHERRARD STREET,44,"{'lat': 53.358437, 'lng': -6.260641}",CLOSED,02-03-2018 23:46:48
+Fitzwilliam Square East,35,5,True,40,False,Dublin,2018-03-02 23:41:04,FITZWILLIAM SQUARE EAST,89,"{'lat': 53.335211, 'lng': -6.2509}",CLOSED,02-03-2018 23:46:48
+Grattan Street,21,2,False,23,False,Dublin,2018-03-02 23:39:17,GRATTAN STREET,57,"{'lat': 53.339629, 'lng': -6.243778}",CLOSED,02-03-2018 23:46:48
+St James Hospital (Luas),11,29,False,40,False,Dublin,2018-03-02 23:38:40,ST JAMES HOSPITAL (LUAS),80,"{'lat': 53.341359, 'lng': -6.292951}",CLOSED,02-03-2018 23:46:48
+Harcourt Terrace,16,4,False,20,False,Dublin,2018-03-02 23:41:06,HARCOURT TERRACE,41,"{'lat': 53.332763, 'lng': -6.257942}",CLOSED,02-03-2018 23:46:48
+Bolton Street,19,1,False,20,False,Dublin,2018-03-02 23:44:10,BOLTON STREET,3,"{'lat': 53.351182, 'lng': -6.269859}",CLOSED,02-03-2018 23:46:48
+Strand Street Great,33,2,True,35,False,Dublin,2018-03-02 23:39:04,STRAND STREET GREAT,46,"{'lat': 53.347082, 'lng': -6.2641919999999995}",CLOSED,02-03-2018 23:46:48
+Jervis Street,19,2,True,21,False,Dublin,2018-03-02 23:37:05,JERVIS STREET,40,"{'lat': 53.3483, 'lng': -6.2666509999999995}",CLOSED,02-03-2018 23:46:48
+Ormond Quay Upper,29,0,True,29,False,Dublin,2018-03-02 23:39:19,ORMOND QUAY UPPER,29,"{'lat': 53.346057, 'lng': -6.268001}",CLOSED,02-03-2018 23:46:48
+Barrow Street,16,24,True,40,False,Dublin,2018-03-02 23:42:33,BARROW STREET,70,"{'lat': 53.341655, 'lng': -6.236198}",CLOSED,02-03-2018 23:46:48
+Mountjoy Square West,12,18,False,30,False,Dublin,2018-03-02 23:40:39,MOUNTJOY SQUARE WEST,28,"{'lat': 53.356299, 'lng': -6.258586}",CLOSED,02-03-2018 23:46:48
+Wilton Terrace,5,15,True,20,False,Dublin,2018-03-02 23:46:00,WILTON TERRACE,39,"{'lat': 53.332383, 'lng': -6.252717}",CLOSED,02-03-2018 23:46:48
+Emmet Road,22,18,False,40,False,Dublin,2018-03-02 23:39:06,EMMET ROAD,83,"{'lat': 53.340714, 'lng': -6.308191}",CLOSED,02-03-2018 23:46:48
+Heuston Bridge (North),23,17,False,40,False,Dublin,2018-03-02 23:38:15,HEUSTON BRIDGE (NORTH),92,"{'lat': 53.347802, 'lng': -6.292432}",CLOSED,02-03-2018 23:46:48
+Leinster Street South,9,21,False,30,False,Dublin,2018-03-02 23:43:36,LEINSTER STREET SOUTH,21,"{'lat': 53.34218, 'lng': -6.254485}",CLOSED,02-03-2018 23:46:48
+Blackhall Place,14,16,False,30,False,Dublin,2018-03-02 23:44:53,BLACKHALL PLACE,88,"{'lat': 53.3488, 'lng': -6.281637}",CLOSED,02-03-2018 23:46:48
